@@ -3,573 +3,538 @@
   
 | Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|  
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
-|1|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python.git)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|26915||8-7-2023|  
-|2|[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code.git)|👨‍💻 30 Days of Code by HackerRank Solutions in C, C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄|900||17-8-2022|  
-|3|[AzureDeploymentFramework](https://github.com/brwilkinson/AzureDeploymentFramework.git)|ARM Bicep & DSC Project for Azure Infrastructure and App Environment Deployments.|128||21-7-2023|  
-|4|[Burrow](https://github.com/linkedin/Burrow.git)|Kafka Consumer Lag Checking|3578||30-10-2023|  
-|5|[DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms.git)|The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!|2613|||  
-|6|[Depix](https://github.com/spipm/Depix.git)|Recovers passwords from pixelized screenshots|24553||17-5-2023|  
-|7|[Examples](https://github.com/tlaplus/Examples.git)|A collection of TLA+ specifications of varying complexities|1160|||  
-|8|[FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template.git)|A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.|455||8-8-2023|  
-|9|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT.git)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|9348||12-11-2023|  
-|10|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|15552||7-11-2023|  
-|11|[GitPython](https://github.com/gitpython-developers/GitPython.git)|GitPython is a python library used to interact with Git repositories.|4132||6-11-2023|  
-|12|[GoCasts](https://github.com/StephenGrider/GoCasts.git)|Companion Repo to https://www.udemy.com/go-the-complete-developers-guide/|2021||25-8-2017|  
-|13|[GolangTraining](https://github.com/GoesToEleven/GolangTraining.git)|Training for Golang (go language)|9318||28-8-2023|  
-|14|[Gooey](https://github.com/chriskiehl/Gooey.git)|Turn (almost) any Python command line program into a full GUI application with one line|17934||8-5-2022|  
-|15|[IF](https://github.com/deep-floyd/IF.git)|-|7228||2-6-2023|  
-|16|[ImHex](https://github.com/WerWolv/ImHex.git)|🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.|30665||12-11-2023|  
-|17|[Jupter-Notebook-REST-API](https://github.com/Invictify/Jupter-Notebook-REST-API.git)|Run your jupyter notebooks as a REST API endpoint. This isn't a jupyter server but rather just a way to run your notebooks as a REST API Endpoint.|72||31-3-2020|  
-|18|[ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners.git)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|54405||2-11-2023|  
-|19|[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer.git)|An all-round MQTT client that provides a structured topic overview|2542||27-2-2022|  
-|20|[Notepads](https://github.com/0x7c13/Notepads.git)|A modern, lightweight text editor with a minimalist design.|7957||12-10-2023|  
-|21|[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings.git)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF|52519||12-11-2023|  
-|22|[Public-APIs](https://github.com/n0shake/Public-APIs.git)|📚 A public list of APIs from round the web.|20296||5-9-2023|  
-|23|[PyGithub](https://github.com/PyGithub/PyGithub.git)|Typed interactions with the GitHub API v3|6364||11-10-2023|  
-|24|[PyTCP](https://github.com/ccie18643/PyTCP.git)|PyTCP is a fully functional TCP/IP stack written in Python. It supports TCP stream-based transport with reliable packet delivery based on a sliding window mechanism and basic congestion control. It also supports IPv6/ICMPv6 protocols with SLAAC address configuration. It operates as a user space program attached to the Linux TAP interface.|308|||  
-|25|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|172781||12-11-2023|  
-|26|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|368|||  
-|27|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|2373||1-7-2022|  
-|28|[Reloader](https://github.com/stakater/Reloader.git)|A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!|5964|||  
-|29|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|116|||  
-|30|[WebFundamentals](https://github.com/google/WebFundamentals.git)|Former git repo for WebFundamentals on developers.google.com|13830||10-8-2022|  
-|31|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|26003||2-11-2023|  
-|32|[acme.sh](https://github.com/acmesh-official/acme.sh.git)|A pure Unix shell script implementing ACME client protocol|33682||5-10-2023|  
-|33|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|534||10-10-2023|  
-|34|[adr-tools](https://github.com/npryce/adr-tools.git)|Command-line tools for working with Architecture Decision Records|4171|||  
-|35|[age](https://github.com/FiloSottile/age.git)|A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.|14332||20-9-2023|  
-|36|[airflow](https://github.com/apache/airflow.git)|Apache Airflow - A platform to programmatically author, schedule, and monitor workflows|32370||12-11-2023|  
-|37|[algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer.git)|:fireworks:Interactive Online Platform that Visualizes Algorithms from Code|45201||13-4-2022|  
-|38|[alpha_vantage](https://github.com/RomelTorres/alpha_vantage.git)|A python wrapper for Alpha Vantage API for financial data.|4046||11-11-2023|  
-|39|[ambry](https://github.com/linkedin/ambry.git)|Distributed object store|1699||10-11-2023|  
-|40|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|39|||  
-|41|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|59225|||  
-|42|[anti-patterns](https://github.com/tonybaloney/anti-patterns.git)|-|156||15-7-2022|  
-|43|[api-guidelines](https://github.com/microsoft/api-guidelines.git)|Microsoft REST API Guidelines|22013||6-11-2023|  
-|44|[archivy](https://github.com/archivy/archivy.git)|Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.|3063||25-7-2023|  
-|45|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative Continuous Deployment for Kubernetes|14624|||  
-|46|[argo-rollouts](https://github.com/argoproj/argo-rollouts.git)|Progressive Delivery for Kubernetes|2264||11-11-2023|  
-|47|[argoproj](https://github.com/argoproj/argoproj.git)|Common project repo for all Argo Projects|505||3-10-2023|  
-|48|[arm-template-whatif](https://github.com/Azure/arm-template-whatif.git)|A repository to track issues related to what-if noise suppression|81||2-8-2022|  
-|49|[arm-ttk](https://github.com/Azure/arm-ttk.git)|Azure Resource Manager Template Toolkit|409||28-7-2023|  
-|50|[arrow](https://github.com/arrow-py/arrow.git)|🏹 Better dates & times for Python|8414||30-9-2023|  
-|51|[atlas](https://github.com/Netflix/atlas.git)|In-memory dimensional time series database.|3342||10-11-2023|  
-|52|[atom](https://github.com/atom/atom.git)|:atom: The hackable text editor|59671||22-11-2022|  
-|53|[atuin](https://github.com/atuinsh/atuin.git)|✨ Magical shell history|12134||11-11-2023|  
-|54|[authelia](https://github.com/authelia/authelia.git)|The Single Sign-On Multi-Factor portal for web apps|17806||12-11-2023|  
-|55|[auto](https://github.com/intuit/auto.git)|Generate releases based on semantic version labels on pull requests.|2123||23-10-2023|  
-|56|[autoscaler](https://github.com/kubernetes/autoscaler.git)|Autoscaling components for Kubernetes|7213|||  
-|57|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|277026|awesome, awesome-list, unicorns, lists, resources|10-11-2023|  
-|58|[awesome-algorithms](https://github.com/tayllan/awesome-algorithms.git)|A curated list of awesome places to learn and/or practice algorithms.|15373|||  
-|59|[awesome-argo](https://github.com/akuity/awesome-argo.git)|A curated list of awesome projects and resources related to Argo (a CNCF graduated project)|1594||9-11-2023|  
-|60|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness.git)|A curated list of awesome awesomeness|30701||24-3-2022|  
-|61|[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets.git)|👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.|34994||7-11-2023|  
-|62|[awesome-courses](https://github.com/prakhar1989/awesome-courses.git)|:books: List of awesome university courses for learning Computer Science!|50078||12-11-2022|  
-|63|[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning.git)|A curated list of awesome Deep Learning tutorials, projects and communities.|21862|||  
-|64|[awesome-docker](https://github.com/veggiemonk/awesome-docker.git)|:whale: A curated list of Docker resources and projects|26777||20-10-2023|  
-|65|[awesome-fastapi](https://github.com/mjhea0/awesome-fastapi.git)|A curated list of awesome things related to FastAPI|6596|fastapi, awesome, awesome-list, starlette|11-8-2023|  
-|66|[awesome-flask](https://github.com/humiaozuzu/awesome-flask.git)|A curated list of awesome Flask resources and plugins|11661|||  
-|67|[awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications.git)|Google Cloud Platform Certification resources.|3622||17-10-2023|  
-|68|[awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme.git)|😎 A curated list of awesome GitHub Profile READMEs 📝|20169|awesome-list, awesome, github, github-readme, github-profile-readme, portfolio, profile-readme|9-10-2022|  
-|69|[awesome-go](https://github.com/avelino/awesome-go.git)|A curated list of awesome Go frameworks, libraries and software|111456||9-11-2023|  
-|70|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|10438||13-7-2021|  
-|71|[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions.git)|:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |58989||16-11-2021|  
-|72|[awesome-k6](https://github.com/grafana/awesome-k6.git)|A curated list of resources on automated load- and performance testing using k6 🗻|460||24-4-2023|  
-|73|[awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources.git)|A curated list of awesome Kubernetes tools and resources.|2762||5-7-2023|  
-|74|[awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins.git)|Curated list of kubectl plugins|803||15-2-2023|  
-|75|[awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes.git)|A curated list of awesome references collected since 2018.|558||12-11-2023|  
-|76|[awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes.git)|A curated list for awesome kubernetes sources :ship::tada:|14361||25-10-2023|  
-|77|[awesome-macOS](https://github.com/iCHAIT/awesome-macOS.git)|  A curated list of awesome applications, softwares, tools and shiny things for macOS.|14872||29-6-2023|  
-|78|[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning.git)|A curated list of awesome Machine Learning frameworks, libraries and software.|61307||30-10-2023|  
-|79|[awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line.git)|Use your macOS terminal shell to do awesome things.|27958|||  
-|80|[awesome-microservices](https://github.com/mfornos/awesome-microservices.git)|A curated list of Microservice Architecture related principles and technologies.|12605|||  
-|81|[awesome-pentest](https://github.com/enaqx/awesome-pentest.git)|A collection of awesome penetration testing resources, tools and other shiny things|19531||3-11-2023|  
-|82|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |14938||31-3-2023|  
-|83|[awesome-readme](https://github.com/matiassingers/awesome-readme.git)|A curated list of awesome READMEs|15666|||  
-|84|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted.git)|A list of Free Software network services and web applications which can be hosted on your own servers|155135||8-11-2023|  
-|85|[awesome-shell](https://github.com/alebcay/awesome-shell.git)|A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.|29107|||  
-|86|[awesome-sre](https://github.com/dastergon/awesome-sre.git)|A curated list of Site Reliability and Production Engineering resources.|10612|||  
-|87|[awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin.git)|A curated list of amazingly awesome open-source sysadmin resources.|20382|||  
-|88|[awesome-vscode](https://github.com/viatsko/awesome-vscode.git)|🎨 A curated list of delightful VS Code packages and resources.|23399||3-8-2023|  
-|89|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4943||10-12-2018|  
-|90|[aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples.git)|Example projects using the AWS CDK|4514||30-10-2023|  
-|91|[aws-cli](https://github.com/aws/aws-cli.git)|Universal Command Line Interface for Amazon Web Services|14430||10-11-2023|  
-|92|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|759||19-9-2023|  
-|93|[aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices.git)|A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.|1675||5-11-2023|  
-|94|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|3571|||  
-|95|[azure-cli](https://github.com/Azure/azure-cli.git)|Azure Command-Line Interface|3730||9-11-2023|  
-|96|[azure-docs-bicep-samples](https://github.com/Azure/azure-docs-bicep-samples.git)|-|62||1-11-2023|  
-|97|[azure-functions-host](https://github.com/Azure/azure-functions-host.git)|The host/runtime that powers Azure Functions|1871|||  
-|98|[azure-monitor-opencensus-python](https://github.com/Azure-Samples/azure-monitor-opencensus-python.git)|Sample repository demonstrating Azure Monitor exporters for Opencensus Python|22||1-6-2023|  
-|99|[azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates.git)|Azure Quickstart Templates|13290||9-11-2023|  
-|100|[azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs.git)|The source for REST API specifications for Microsoft Azure.|2264||11-11-2023|  
-|101|[azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python.git)|This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |3903|||  
-|102|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|24027||11-11-2023|  
-|103|[badges](https://github.com/Naereen/badges.git)|:pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!|4029||8-11-2023|  
-|104|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|43775|||  
-|105|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|18302||12-11-2023|  
-|106|[behave](https://github.com/behave/behave.git)|BDD, Python style.|2971||9-11-2023|  
-|107|[bhai-lang](https://github.com/DulLabs/bhai-lang.git)|A toy programming language written in Typescript|3612|||  
-|108|[bicep](https://github.com/Azure/bicep.git)|Bicep is a declarative language for describing and deploying Azure resources|2966||10-11-2023|  
-|109|[bitcoin](https://github.com/bitcoin/bitcoin.git)|Bitcoin Core integration/staging tree|72153||11-11-2023|  
-|110|[black](https://github.com/psf/black.git)|The uncompromising Python code formatter|35395||8-11-2023|  
-|111|[blackfriday](https://github.com/russross/blackfriday.git)|Blackfriday: a markdown processor for Go|5248||27-10-2020|  
-|112|[bokeh](https://github.com/bokeh/bokeh.git)|Interactive Data Visualization in the browser, from  Python|18280||8-11-2023|  
-|113|[boto3](https://github.com/boto/boto3.git)|AWS SDK for Python|8410||10-11-2023|  
-|114|[boundary](https://github.com/hashicorp/boundary.git)|Boundary enables identity-based access management for dynamic infrastructure. |3708||10-11-2023|  
-|115|[brackets](https://github.com/adobe/brackets.git)|An open source code editor for the web, written in JavaScript, HTML and CSS.|33360||18-3-2021|  
-|116|[brooklin](https://github.com/linkedin/brooklin.git)|An extensible distributed system for reliable nearline data streaming at scale|869||6-11-2023|  
-|117|[brotli](https://github.com/google/brotli.git)|Brotli compression format|12671||26-10-2023|  
-|118|[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x.git)|Master programming by recreating your favorite technologies from scratch.|225873||7-11-2023|  
-|119|[caddy](https://github.com/caddyserver/caddy.git)|Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS|50531||1-11-2023|  
-|120|[cdk8s](https://github.com/cdk8s-team/cdk8s.git)|Define Kubernetes native apps and abstractions using object-oriented programming|3875|||  
-|121|[cdnjs](https://github.com/cdnjs/cdnjs.git)|🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.|10010||12-11-2023|  
-|122|[celery](https://github.com/celery/celery.git)|Distributed Task Queue (development branch)|22518||12-11-2023|  
-|123|[cert-manager](https://github.com/cert-manager/cert-manager.git)|Automatically provision and manage TLS certificates in Kubernetes|10866|||  
-|124|[cfssl](https://github.com/cloudflare/cfssl.git)|CFSSL: Cloudflare's PKI and TLS toolkit|8149||9-11-2023|  
-|125|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|6048||6-11-2023|  
-|126|[chaosmonkey](https://github.com/Netflix/chaosmonkey.git)|Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.|14017||15-7-2023|  
-|127|[chartmuseum](https://github.com/helm/chartmuseum.git)|helm chart repository server|3351|||  
-|128|[charts](https://github.com/helm/charts.git)|⚠️(OBSOLETE) Curated applications for Kubernetes|15534||21-12-2021|  
-|129|[cheat.sh](https://github.com/chubin/cheat.sh.git)|the only cheat sheet you need|36329|||  
-|130|[cilium](https://github.com/cilium/cilium.git)|eBPF-based Networking, Security, and Observability|16963||10-11-2023|  
-|131|[clair](https://github.com/quay/clair.git)|Vulnerability Static Analysis for Containers|9780||30-10-2023|  
-|132|[cli](https://github.com/snyk/cli.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|4608||9-11-2023|  
-|133|[cli](https://github.com/cli/cli.git)|GitHub’s official command line tool|33704|||  
-|134|[cli-spinners](https://github.com/sindresorhus/cli-spinners.git)|Spinners for use in the terminal|2285||12-10-2023|  
-|135|[cli53](https://github.com/barnybug/cli53.git)|Command line tool for Amazon Route 53|1919||24-2-2023|  
-|136|[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian.git)|Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources|5011|||  
-|137|[cluster-api](https://github.com/kubernetes-sigs/cluster-api.git)|Home for Cluster API, a subproject of sig-cluster-lifecycle|3129||9-11-2023|  
-|138|[codebytere.github.io](https://github.com/codebytere/codebytere.github.io.git)|personal website|498|||  
-|139|[codesearch](https://github.com/google/codesearch.git)|Fast, indexed regexp search over large file trees|3440||29-3-2020|  
-|140|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|270971||3-11-2023|  
-|141|[compose](https://github.com/docker/compose.git)|Define and run multi-container applications with Docker|30869||10-11-2023|  
-|142|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|152217||9-11-2023|  
-|143|[confd](https://github.com/kelseyhightower/confd.git)|Manage local application configuration files using templates and data from etcd or consul|8204||28-9-2022|  
-|144|[consul](https://github.com/hashicorp/consul.git)|Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.|27278|||  
-|145|[containerd](https://github.com/containerd/containerd.git)|An open and reliable container runtime|15101||10-11-2023|  
-|146|[core](https://github.com/home-assistant/core.git)|:house_with_garden: Open source home automation that puts local control and privacy first.|64006||12-11-2023|  
-|147|[coredns](https://github.com/coredns/coredns.git)|CoreDNS is a DNS server that chains plugins|11224||11-11-2023|  
-|148|[coreutils](https://github.com/uutils/coreutils.git)|Cross-platform Rust rewrite of the GNU coreutils|15582||12-11-2023|  
-|149|[crouton](https://github.com/dnschneid/crouton.git)|Chromium OS Universal Chroot Environment|8431|||  
-|150|[cruise-control](https://github.com/linkedin/cruise-control.git)|Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.|2555||9-11-2023|  
-|151|[dailybot](https://github.com/sapumar/dailybot.git)|Simple telegram bot to remind about the daily stand up|8||23-12-2021|  
-|152|[dapr](https://github.com/dapr/dapr.git)|Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.|22556||9-11-2023|  
-|153|[dashboard](https://github.com/kubernetes/dashboard.git)|General-purpose web UI for Kubernetes clusters|13200|||  
-|154|[datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator.git)|Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.|1933||10-11-2023|  
-|155|[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans.git)|An ultra-simplified explanation to design patterns|42283||17-5-2023|  
-|156|[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Interactive roadmaps, guides and other educational content to help developers grow in their careers.|257251||12-11-2023|  
-|157|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|59429||24-8-2023|  
-|158|[discourse](https://github.com/discourse/discourse.git)|A platform for community discussion. Free, open, simple.|39056||12-11-2023|  
-|159|[dive](https://github.com/wagoodman/dive.git)|A tool for exploring each layer in a docker image|39344|||  
-|160|[django-health-check](https://github.com/revsys/django-health-check.git)|a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.|1073|||  
-|161|[dns](https://github.com/miekg/dns.git)|DNS library in Go|7291||7-11-2023|  
-|162|[dnscontrol](https://github.com/StackExchange/dnscontrol.git)|Synchronize your DNS to multiple providers from a simple DSL|2786||12-11-2023|  
-|163|[dnslib](https://github.com/paulc/dnslib.git)|A Python library to encode/decode DNS wire-format packets |275||28-10-2022|  
-|164|[dnsperf](https://github.com/cobblau/dnsperf.git)|A DNS performance tool.|211|||  
-|165|[docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet.git)|Docker Cheat Sheet|21679||23-6-2022|  
-|166|[docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series.git)|-|4631|||  
-|167|[docker_practice](https://github.com/yeasy/docker_practice.git)|Learn and understand Docker&Container technologies, with real DevOps practice!|23097|||  
-|168|[dockerfiles](https://github.com/jessfraz/dockerfiles.git)|Various Dockerfiles I use on the desktop and on servers.|13309||27-3-2021|  
-|169|[doitlive](https://github.com/sloria/doitlive.git)|Because sometimes you need to do it live|3353||14-8-2022|  
-|170|[dokku](https://github.com/dokku/dokku.git)|A docker-powered PaaS that helps you build and manage the lifecycle of applications|25154||12-11-2023|  
-|171|[dotfiles](https://github.com/bbkane/dotfiles.git)|Configs for apps I care about|29||29-10-2023|  
-|172|[draft-classic](https://github.com/Azure/draft-classic.git)|A tool for developers to create cloud-native applications on Kubernetes.|3927||26-2-2020|  
-|173|[drawio](https://github.com/jgraph/drawio.git)|draw.io is a JavaScript, client-side editor for general diagramming.|36589|||  
-|174|[duf](https://github.com/muesli/duf.git)|Disk Usage/Free Utility - a better 'df' alternative|11687||20-9-2023|  
-|175|[eBPF-Package-Repository](https://github.com/l3af-project/eBPF-Package-Repository.git)|eBPF Programs|46|||  
-|176|[echarts](https://github.com/apache/echarts.git)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|57002||6-11-2023|  
-|177|[echo](https://github.com/labstack/echo.git)|High performance, minimalist Go web framework|27013||7-11-2023|  
-|178|[ecs-refarch-service-discovery](https://github.com/awslabs/ecs-refarch-service-discovery.git)|An EC2 Container Service Reference Architecture for providing Service Discovery to containers using CloudWatch Events, Lambda and Route 53 private hosted zones. |444||25-7-2016|  
-|179|[elasticsearch](https://github.com/elastic/elasticsearch.git)|Free and Open, Distributed, RESTful Search Engine|65734||12-11-2023|  
-|180|[eng-practices](https://github.com/google/eng-practices.git)|Google's Engineering Practices documentation|19510||17-7-2023|  
-|181|[engineering-blogs](https://github.com/kilimchoi/engineering-blogs.git)|A curated list of engineering blogs|25550||28-10-2022|  
-|182|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|22990|||  
-|183|[eruda](https://github.com/liriliri/eruda.git)|Console for mobile browsers|16400||5-11-2023|  
-|184|[etcd](https://github.com/etcd-io/etcd.git)|Distributed reliable key-value store for the most critical data of a distributed system|44874|||  
-|185|[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know.git)|A collection of (mostly) technical things every software developer should know about|73339||23-11-2022|  
-|186|[ewd998](https://github.com/tlaplus-workshops/ewd998.git)|Distributed termination detection on a ring, due to Shmuel Safra:|43||21-7-2023|  
-|187|[examples](https://github.com/kubernetes/examples.git)|Kubernetes application example tutorials|5832||25-8-2023|  
-|188|[excalidraw](https://github.com/excalidraw/excalidraw.git)|Virtual whiteboard for sketching hand-drawn like diagrams|57839|||  
-|189|[external-dns](https://github.com/kubernetes-sigs/external-dns.git)|Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services|6816|||  
-|190|[faas](https://github.com/openfaas/faas.git)|OpenFaaS - Serverless Functions Made Simple|23673||2-11-2023|  
-|191|[face_recognition](https://github.com/ageitgey/face_recognition.git)|The world's simplest facial recognition api for Python and the command line|50165||10-6-2022|  
-|192|[faker](https://github.com/joke2k/faker.git)|Faker is a Python package that generates fake data for you.|16488||10-11-2023|  
-|193|[falcon](https://github.com/falconry/falcon.git)|The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.|9292|||  
-|194|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|64480||4-11-2023|  
-|195|[fastapi-cache](https://github.com/long2ice/fastapi-cache.git)|fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.|897||26-10-2023|  
-|196|[fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator.git)|This code generator creates FastAPI app from an openapi file.|817||7-9-2023|  
-|197|[fastapi-jwt](https://github.com/testdrivenio/fastapi-jwt.git)|secure a FastAPI app by enabling authentication using JSON Web Tokens (JWTs)|97||31-1-2023|  
-|198|[fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc.git)|Developer productivity tool for making high-quality FastAPI production-ready APIs.|492|||  
-|199|[fastapi-utils](https://github.com/dmontagu/fastapi-utils.git)|Reusable utilities for FastAPI|1596|||  
-|200|[fastapi-versioning](https://github.com/DeanWay/fastapi-versioning.git)|api versioning for fastapi web applications|566||24-8-2021|  
-|201|[fastapi_client](https://github.com/dmontagu/fastapi_client.git)|FastAPI client generator|320||11-2-2021|  
-|202|[fastapi_profiler](https://github.com/sunhailin-Leo/fastapi_profiler.git)|A FastAPI Middleware of joerick/pyinstrument to check your service performance.|158||5-5-2023|  
-|203|[fasthttp](https://github.com/valyala/fasthttp.git)|Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http|20355|||  
-|204|[fd](https://github.com/sharkdp/fd.git)|A simple, fast and user-friendly alternative to 'find'|29413|||  
-|205|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|22535||12-11-2023|  
-|206|[flasgger](https://github.com/flasgger/flasgger.git)|Easy OpenAPI specs and Swagger UI for your Flask API|3387|||  
-|207|[flask-app-on-azure-functions](https://github.com/Azure-Samples/flask-app-on-azure-functions.git)|A sample to run a Flask app on Azure Functions|14|||  
-|208|[flask-caching](https://github.com/pallets-eco/flask-caching.git)|A caching extension for Flask|835||8-10-2023|  
-|209|[flask-swagger-ui](https://github.com/sveint/flask-swagger-ui.git)|Swagger UI blueprint for flask|168||24-5-2022|  
-|210|[flower](https://github.com/mher/flower.git)|Real-time monitor and web admin for Celery distributed task queue|5929||26-10-2023|  
-|211|[flux](https://github.com/fluxcd/flux.git)|Successor: https://github.com/fluxcd/flux2|6903||1-11-2022|  
-|212|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|3045|||  
-|213|[fortio-operator](https://github.com/verfio/fortio-operator.git)|Load Testing Operator within the Kubernetes cluster and outside of it.|36||18-3-2019|  
-|214|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|76371|||  
-|215|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|303056|||  
-|216|[frp](https://github.com/fatedier/frp.git)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|73695||6-11-2023|  
-|217|[fucking-algorithm](https://github.com/labuladong/fucking-algorithm.git)|刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |120824||30-10-2023|  
-|218|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|738||19-7-2020|  
-|219|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1903|||  
-|220|[gin](https://github.com/gin-gonic/gin.git)|Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.|72478|||  
-|221|[git-standup](https://github.com/kamranahmedse/git-standup.git)|Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)|7466||24-2-2023|  
-|222|[gitbook](https://github.com/GitbookIO/gitbook.git)|📝 Modern documentation format and toolchain using Git and Markdown|25896||2-3-2023|  
-|223|[github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)|:zap: Dynamically generated stats for your github readmes|60872||10-11-2023|  
-|224|[github1s](https://github.com/conwnet/github1s.git)|One second to read GitHub code with VS Code.|22289||23-10-2023|  
-|225|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|152953||18-12-2022|  
-|226|[gitops-engine](https://github.com/argoproj/gitops-engine.git)|Democratizing GitOps|1586||2-11-2023|  
-|227|[gitui](https://github.com/extrawurst/gitui.git)|Blazing 💥 fast terminal-ui for git written in rust 🦀|14431||6-11-2023|  
-|228|[glb-director](https://github.com/github/glb-director.git)|GitHub Load Balancer Director and supporting tooling.|2288||31-10-2023|  
-|229|[gloo](https://github.com/solo-io/gloo.git)|The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy|3896||10-11-2023|  
-|230|[go-fuzz](https://github.com/dvyukov/go-fuzz.git)|Randomized testing for Go|4658||19-10-2023|  
-|231|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub v3 API|9728|||  
-|232|[go-leetcode](https://github.com/austingebauer/go-leetcode.git)|A collection of 100+ popular LeetCode problems solved in Go.|1753||10-3-2021|  
-|233|[go-restful](https://github.com/emicklei/go-restful.git)|package for building REST-style Web Services using Go|4892||19-8-2023|  
-|234|[goaccess](https://github.com/allinurl/goaccess.git)|GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.|16835|||  
-|235|[gobgp](https://github.com/osrg/gobgp.git)|BGP implemented in the Go Programming Language|3344|||  
-|236|[gods](https://github.com/emirpasic/gods.git)|GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more|14589||4-9-2023|  
-|237|[golang-web-dev](https://github.com/GoesToEleven/golang-web-dev.git)|-|3239|||  
-|238|[goldmark](https://github.com/yuin/goldmark.git)|:trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.|2976||3-11-2023|  
-|239|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|6985|||  
-|240|[googlesre](https://github.com/google/googlesre.git)|-|147||29-10-2023|  
-|241|[goreleaser](https://github.com/goreleaser/goreleaser.git)|Deliver Go binaries as fast and easily as possible|12290||9-11-2023|  
-|242|[gotty](https://github.com/yudai/gotty.git)|Share your terminal as a web application|18140|||  
-|243|[gotty](https://github.com/sorenisanerd/gotty.git)|Share your terminal as a web application|1965||28-7-2023|  
-|244|[gping](https://github.com/orf/gping.git)|Ping, but with a graph|9619||9-11-2023|  
-|245|[gpt-pilot](https://github.com/Pythagora-io/gpt-pilot.git)|Dev tool that writes scalable apps from scratch while the developer oversees the implementation|14728||8-11-2023|  
-|246|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |57929||12-11-2023|  
-|247|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|4332|||  
-|248|[greykite](https://github.com/linkedin/greykite.git)|A flexible, intuitive and fast forecasting library|1751||7-6-2023|  
-|249|[guacamole-server](https://github.com/apache/guacamole-server.git)|Mirror of Apache Guacamole Server|2672||7-11-2023|  
-|250|[halo](https://github.com/manrajgrover/halo.git)|💫 Beautiful spinners for terminal, IPython and Jupyter|2796||9-11-2020|  
-|251|[haproxy](https://github.com/haproxy/haproxy.git)|HAProxy Load Balancer's development branch (mirror of git.haproxy.org)|4111|||  
-|252|[healthchecks](https://github.com/healthchecks/healthchecks.git)|Open-source cron job and background task monitoring service, written in Python & Django|6742||10-11-2023|  
-|253|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|25202||10-11-2023|  
-|254|[helm-git-repo](https://github.com/yks0000/helm-git-repo.git)|A Helm Repo (Automatically build index.yaml)|1||6-4-2021|  
-|255|[helmfile](https://github.com/roboll/helmfile.git)|Deploy Kubernetes Helm Charts|4007||13-12-2022|  
-|256|[hey](https://github.com/rakyll/hey.git)|HTTP load generator, ApacheBench (ab) replacement|16511||23-3-2021|  
-|257|[homebrew-cask](https://github.com/Homebrew/homebrew-cask.git)|🍻 A CLI workflow for the administration of macOS applications distributed as binaries|20248|||  
-|258|[homepage](https://github.com/gethomepage/homepage.git)|A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.|10820||12-11-2023|  
-|259|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|10268||13-7-2023|  
-|260|[htmlq](https://github.com/mgdm/htmlq.git)|Like jq, but for HTML.|6675||15-4-2023|  
-|261|[htop](https://github.com/htop-dev/htop.git)|htop - an interactive process viewer|5441||12-11-2023|  
-|262|[http-api-design](https://github.com/interagent/http-api-design.git)|HTTP API design guide extracted from work on the Heroku Platform API|13665||18-11-2021|  
-|263|[httpstat](https://github.com/davecheney/httpstat.git)|It's like curl -v, with colours. |6413||17-10-2023|  
-|264|[httpstat](https://github.com/reorx/httpstat.git)|curl statistics made simple|5490||12-6-2023|  
-|265|[httptools](https://github.com/MagicStack/httptools.git)|Fast HTTP parser|1141||16-10-2023|  
-|266|[hub](https://github.com/mislav/hub.git)|A command-line tool that makes git easier to use with GitHub.|22559||4-10-2023|  
-|267|[hubot-slack](https://github.com/slackapi/hubot-slack.git)|Slack Developer Kit for Hubot|2300|||  
-|268|[hugo](https://github.com/gohugoio/hugo.git)|The world’s fastest framework for building websites.|69798||8-11-2023|  
-|269|[hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod.git)| A fast, clean, responsive Hugo theme.|7448||11-11-2023|  
-|270|[hygieia](https://github.com/hygieia/hygieia.git)|CapitalOne  DevOps Dashboard|3766||29-9-2023|  
-|271|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|41712||31-10-2023|  
-|272|[influxdb](https://github.com/influxdata/influxdb.git)|Scalable datastore for metrics, events, and real-time analytics|26663||2-11-2023|  
-|273|[ingress-nginx](https://github.com/kubernetes/ingress-nginx.git)|Ingress-NGINX Controller for Kubernetes|15911||7-11-2023|  
-|274|[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges.git)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|28043||5-8-2020|  
-|275|[ipvs](https://github.com/cloudflare/ipvs.git)|Package ipvs allows you to manage Linux IPVS services and destinations|118|||  
-|276|[ipython](https://github.com/ipython/ipython.git)|Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.|15997||6-11-2023|  
-|277|[iris](https://github.com/kataras/iris.git)|The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:|24464||9-11-2023|  
-|278|[iris](https://github.com/linkedin/iris.git)|Iris is a highly configurable and flexible service for paging and messaging.|775||27-6-2022|  
-|279|[istio](https://github.com/istio/istio.git)|Connect, secure, control, and observe services.|33929||12-11-2023|  
-|280|[it-tools](https://github.com/CorentinTh/it-tools.git)|Collection of handy online tools for developers, with great UX. |5481|vuejs, tools, tool, converter, website, frontend, developer-tools, developer-productivity, productivity, javascript, typescript|9-11-2023|  
-|281|[ivy](https://github.com/unifyai/ivy.git)|The Unified AI Framework|13760|||  
-|282|[jaeger](https://github.com/jaegertracing/jaeger.git)|CNCF Jaeger, a Distributed Tracing Platform|18611|||  
-|283|[javascript-questions](https://github.com/lydiahallie/javascript-questions.git)|A long list of (advanced) JavaScript questions, and their explanations :sparkles:  |57306|||  
-|284|[jedis](https://github.com/redis/jedis.git)|Redis Java client|11372|||  
-|285|[jellyfin](https://github.com/jellyfin/jellyfin.git)|The Free Software Media System|26311|||  
-|286|[jira](https://github.com/go-jira/jira.git)|simple jira command line client in Go|2637|||  
-|287|[jira](https://github.com/pycontribs/jira.git)|Python Jira library. Development chat available on https://matrix.to/#/#pycontribs:matrix.org|1829||2-11-2023|  
-|288|[jq](https://github.com/jqlang/jq.git)|Command-line JSON processor|27061||6-11-2023|  
-|289|[jsii](https://github.com/aws/jsii.git)|jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!|2453|||  
-|290|[json-server](https://github.com/typicode/json-server.git)|Get a full fake REST API with zero coding in less than 30 seconds (seriously)|69230|||  
-|291|[jsonnet](https://github.com/google/jsonnet.git)|Jsonnet - The data templating language|6497|||  
-|292|[jsonschema](https://github.com/python-jsonschema/jsonschema.git)|An implementation of the JSON Schema specification for Python|4293|||  
-|293|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|1102||5-7-2023|  
-|294|[k3s](https://github.com/k3s-io/k3s.git)|Lightweight Kubernetes|24932||9-11-2023|  
-|295|[k6](https://github.com/grafana/k6.git)|A modern load testing tool, using Go and JavaScript - https://k6.io|21944||10-11-2023|  
-|296|[k6-benchmarks](https://github.com/grafana/k6-benchmarks.git)|-|28||13-10-2023|  
-|297|[k6-example-woocommerce](https://github.com/grafana/k6-example-woocommerce.git)|Example k6 scripts targeting a WooCommerce deployment|39||11-9-2023|  
-|298|[k8s-conformance](https://github.com/cncf/k8s-conformance.git)|🧪CNCF K8s Conformance Working Group|793||9-11-2023|  
-|299|[k8sgpt](https://github.com/k8sgpt-ai/k8sgpt.git)|Giving Kubernetes Superpowers to everyone|3443||12-11-2023|  
-|300|[k9s](https://github.com/derailed/k9s.git)|🐶 Kubernetes CLI To Manage Your Clusters In Style!|22774||12-11-2023|  
-|301|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1983||22-3-2023|  
-|302|[kaniko](https://github.com/GoogleContainerTools/kaniko.git)|Build Container Images In Kubernetes|13134||10-11-2023|  
-|303|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2247||1-11-2023|  
-|304|[kargo](https://github.com/akuity/kargo.git)|Application lifecycle orchestration|825||11-11-2023|  
-|305|[katib](https://github.com/kubeflow/katib.git)|Repository for hyperparameter tuning|1374||3-11-2023|  
-|306|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|4305||10-11-2023|  
-|307|[kb](https://github.com/gnebbia/kb.git)|A minimalist command line knowledge base manager|3034|||  
-|308|[keras-yolo2](https://github.com/experiencor/keras-yolo2.git)|Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).|1725||31-12-2019|  
-|309|[kind](https://github.com/kubernetes-sigs/kind.git)|Kubernetes IN Docker - local clusters for testing Kubernetes|12197||10-11-2023|  
-|310|[kong](https://github.com/Kong/kong.git)|🦍 The Cloud-Native API Gateway |36240|||  
-|311|[kopf](https://github.com/nolar/kopf.git)|A Python framework to write Kubernetes operators in just a few lines of code|1764|||  
-|312|[kops](https://github.com/kubernetes/kops.git)|Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management|15263||12-11-2023|  
-|313|[kraken](https://github.com/uber/kraken.git)|P2P Docker registry capable of distributing TBs of data in seconds|5675||26-9-2023|  
-|314|[krew](https://github.com/kubernetes-sigs/krew.git)|📦 Find and install kubectl plugins|5887|||  
-|315|[ksonnet](https://github.com/ksonnet/ksonnet.git)|A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.|1166|||  
-|316|[kube-capacity](https://github.com/robscott/kube-capacity.git)|A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster|1751||13-2-2023|  
-|317|[kube2iam](https://github.com/jtblin/kube2iam.git)|kube2iam  provides different AWS IAM roles for pods running on Kubernetes|1920||31-10-2023|  
-|318|[kubebuilder](https://github.com/kubernetes-sigs/kubebuilder.git)|Kubebuilder - SDK for building Kubernetes APIs using CRDs|6966||9-11-2023|  
-|319|[kubectl-aliases](https://github.com/ahmetb/kubectl-aliases.git)|Programmatically generated handy kubectl aliases.|3120||5-4-2022|  
-|320|[kubectl-cost](https://github.com/kubecost/kubectl-cost.git)|CLI for determining the cost of Kubernetes workloads|748||6-7-2023|  
-|321|[kubeflow](https://github.com/kubeflow/kubeflow.git)|Machine Learning Toolkit for Kubernetes|13137||1-11-2023|  
-|322|[kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets.git)|Integrate external secret management systems with Kubernetes|2599||28-5-2022|  
-|323|[kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook.git)|Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook|10800||7-8-2023|  
-|324|[kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes.git)|Example recipes for Kubernetes Network Policies that you can just copy paste|5111||28-12-2022|  
-|325|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|37032||2-5-2021|  
-|326|[kubescape](https://github.com/kubescape/kubescape.git)|Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.|9117||8-11-2023|  
-|327|[kubeshark](https://github.com/kubeshark/kubeshark.git)|The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes|9695|||  
-|328|[kubesphere](https://github.com/kubesphere/kubesphere.git)|The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️|13614|||  
-|329|[kubespray](https://github.com/kubernetes-sigs/kubespray.git)|Deploy a Production Ready Kubernetes Cluster|14701||10-11-2023|  
-|330|[kubewatch](https://github.com/vmware-archive/kubewatch.git)|Watch k8s events and trigger Handlers|2448||8-4-2022|  
-|331|[kudu](https://github.com/projectkudu/kudu.git)|Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.|3079|||  
-|332|[kustomize](https://github.com/kubernetes-sigs/kustomize.git)|Customization of kubernetes YAML configurations|10128||10-11-2023|  
-|333|[labs](https://github.com/docker/labs.git)|This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.|11384||18-4-2022|  
-|334|[landscape](https://github.com/cncf/landscape.git)|🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.|8957||12-11-2023|  
-|335|[lazydocker](https://github.com/jesseduffield/lazydocker.git)|The lazier way to manage everything docker|30969|||  
-|336|[learn-python](https://github.com/trekhleb/learn-python.git)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|15246||21-7-2023|  
-|337|[learn-python3](https://github.com/jerry-git/learn-python3.git)|Jupyter notebooks for teaching/learning Python 3|6051||25-4-2023|  
-|338|[learn-regex](https://github.com/ziishaned/learn-regex.git)|Learn regex the easy way|44653||1-6-2023|  
-|339|[learnopencv](https://github.com/spmallick/learnopencv.git)|Learn OpenCV  : C++ and Python Examples|19489||11-11-2023|  
-|340|[leetcode](https://github.com/gouthampradhan/leetcode.git)|Leetcode solutions|3197|||  
-|341|[lens](https://github.com/lensapp/lens.git)|Lens - The way the world runs Kubernetes|21748|||  
-|342|[leveldb](https://github.com/google/leveldb.git)|LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|33885||20-4-2023|  
-|343|[life](https://github.com/cheeaun/life.git)|Life - a timeline of important events in my life|2723|||  
-|344|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |27405||12-11-2023|  
-|345|[linkerd2](https://github.com/linkerd/linkerd2.git)|Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.|9975||9-11-2023|  
-|346|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|160654||12-11-2023|  
-|347|[linux-insides](https://github.com/0xAX/linux-insides.git)|A little bit about a linux kernel|28822||1-9-2023|  
-|348|[litestream](https://github.com/benbjohnson/litestream.git)|Streaming replication for SQLite.|9107|||  
-|349|[localstack](https://github.com/localstack/localstack.git)|💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline|49963|||  
-|350|[locust](https://github.com/locustio/locust.git)|Write scalable load tests in plain Python 🚗💨|22446||12-11-2023|  
-|351|[loguru](https://github.com/Delgan/loguru.git)|Python logging made (stupidly) simple|16579||1-11-2023|  
-|352|[lovefield](https://github.com/google/lovefield.git)|Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.|6842|||  
-|353|[machine](https://github.com/docker/machine.git)|Machine management for a container-centric world|6597||2-9-2019|  
-|354|[manage-fastapi](https://github.com/ycd/manage-fastapi.git)|:rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.    |1499|fastapi, boilerplate, cli, project-generator, mongodb, postgresql, sqlite, mysql, tortoise-orm, databases, project-management-tool, project-management|1-8-2023|  
-|355|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|5234||27-10-2023|  
-|356|[mangum](https://github.com/jordaneremieff/mangum.git)|AWS Lambda support for ASGI applications|1482|||  
-|357|[marathon](https://github.com/mesosphere/marathon.git)|Deploy and manage containers (including Docker) on top of Apache Mesos at scale.|4065||27-7-2021|  
-|358|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|59228||30-9-2018|  
-|359|[mattermost](https://github.com/mattermost/mattermost.git)|Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..|26782||11-11-2023|  
-|360|[memray](https://github.com/bloomberg/memray.git)|The endgame Python memory profiler|11400||10-11-2023|  
-|361|[memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark.git)|NoSQL Redis and Memcache traffic generation and benchmarking tool.|805|||  
-|362|[mergestat-lite](https://github.com/mergestat/mergestat-lite.git)|Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊|3368||15-8-2023|  
-|363|[microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo.git)|Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.|15016||8-11-2023|  
-|364|[microsoft-authentication-library-for-python](https://github.com/AzureAD/microsoft-authentication-library-for-python.git)|Microsoft Authentication Library (MSAL) for Python makes it easy to authenticate to Azure Active Directory. These documented APIs are stable https://msal-python.readthedocs.io. If you have questions but do not have a github account, ask your questions on Stackoverflow with tag "msal" + "python".|668|||  
-|365|[minikube](https://github.com/kubernetes/minikube.git)|Run Kubernetes locally|27490||10-11-2023|  
-|366|[minio](https://github.com/minio/minio.git)|High Performance Object Storage for AI|41573||11-11-2023|  
-|367|[miniserve](https://github.com/svenstaro/miniserve.git)|🌟 For when you really just want to serve some files over HTTP right now!|5148||9-11-2023|  
-|368|[mito](https://github.com/mito-ds/mito.git)|The mitosheet package, trymito.io, and other public Mito code.|2025||10-11-2023|  
-|369|[mkcert](https://github.com/FiloSottile/mkcert.git)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|43375|||  
-|370|[mkdocs-material](https://github.com/squidfunk/mkdocs-material.git)|Documentation that simply works|16120||12-11-2023|  
-|371|[moby](https://github.com/moby/moby.git)|The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems|66927|||  
-|372|[moto](https://github.com/getmoto/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|7165||12-11-2023|  
-|373|[ms-identity-python-webapi-azurefunctions](https://github.com/Azure-Samples/ms-identity-python-webapi-azurefunctions.git)|Python Azure Function Web API secured by Azure AD|28||4-2-2021|  
-|374|[mux](https://github.com/gorilla/mux.git)|Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍|19453||18-10-2023|  
-|375|[my-mac](https://github.com/nikitavoloboev/my-mac.git)|Apps/tools I use on macOS|20107|||  
-|376|[mycli](https://github.com/dbcli/mycli.git)|A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.|11083||16-10-2023|  
-|377|[mypy](https://github.com/python/mypy.git)|Optional static typing for Python|16733||12-11-2023|  
-|378|[netdata](https://github.com/netdata/netdata.git)|Monitor your servers, containers, and applications, in high-resolution and in real-time!|65883||12-11-2023|  
-|379|[nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook.git)|How to improve NGINX performance, security, and other important things.|13254|||  
-|380|[ngrok](https://github.com/inconshreveable/ngrok.git)|Introspected tunnels to localhost|23319|||  
-|381|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|60||9-5-2018|  
-|382|[nocode](https://github.com/kelseyhightower/nocode.git)|The best way to write secure and reliable applications. Write nothing; deploy nowhere.|58014||21-1-2020|  
-|383|[novu](https://github.com/novuhq/novu.git)|🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀|30723|||  
-|384|[nprogress](https://github.com/rstacruz/nprogress.git)|For slim progress bars like on YouTube, Medium, etc|25641||19-4-2020|  
-|385|[ntopng](https://github.com/ntop/ntopng.git)|Web-based Traffic and Security Network Traffic Monitoring|5609||11-11-2023|  
-|386|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|15318||2-11-2023|  
-|387|[og-aws](https://github.com/open-guides/og-aws.git)|📙 Amazon Web Services — a practical guide|34742||24-8-2022|  
-|388|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|164044|||  
-|389|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|18115||12-11-2023|  
-|390|[openapi-python-client](https://github.com/openapi-generators/openapi-python-client.git)|Generate modern Python clients from OpenAPI|880||11-11-2023|  
-|391|[opencensus-python](https://github.com/census-instrumentation/opencensus-python.git)|A stats collection and distributed tracing framework|658||2-11-2023|  
-|392|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|72264|||  
-|393|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|3816||18-10-2023|  
-|394|[opengrok](https://github.com/oracle/opengrok.git)|OpenGrok is a fast and usable source code search and cross reference engine, written in Java|4006||10-11-2023|  
-|395|[operator-sdk](https://github.com/operator-framework/operator-sdk.git)|SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.|6778|||  
-|396|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|8691||1-8-2023|  
-|397|[osquery](https://github.com/osquery/osquery.git)|SQL powered operating system instrumentation, monitoring, and analytics.|20740|||  
-|398|[oss-fuzz](https://github.com/google/oss-fuzz.git)|OSS-Fuzz - continuous fuzzing for open source software.|9156||11-11-2023|  
-|399|[outrun](https://github.com/Overv/outrun.git)|Execute a local command using the processing power of another Linux machine.|3099||24-1-2023|  
-|400|[pace](https://github.com/CodeByZach/pace.git)|Automatically add a progress bar to your site.|15603||15-7-2022|  
-|401|[packer](https://github.com/hashicorp/packer.git)|Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.|14674||10-11-2023|  
-|402|[papers-we-love](https://github.com/papers-we-love/papers-we-love.git)|Papers from the computer science community to read and discuss.|77675|||  
-|403|[pendulum](https://github.com/sdispater/pendulum.git)|Python datetimes made easy|5786||24-10-2023|  
-|404|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|9326||14-1-2020|  
-|405|[pex](https://github.com/pantsbuild/pex.git)|A tool for generating .pex (Python EXecutable) files, lock files and venvs.|2381||10-11-2023|  
-|406|[photography](https://github.com/rampatra/photography.git)|A free online portfolio website to showcase your photos.|794||20-9-2023|  
-|407|[pi-hole](https://github.com/pi-hole/pi-hole.git)|A black hole for Internet advertisements|44932||11-10-2023|  
-|408|[pinpoint](https://github.com/pinpoint-apm/pinpoint.git)|APM, (Application Performance Management) tool for large-scale distributed systems. |13041||9-11-2023|  
-|409|[ploomber](https://github.com/ploomber/ploomber.git)|The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️|3243||30-8-2023|  
-|410|[pod-reaper](https://github.com/target/pod-reaper.git)|Rule based pod killing kubernetes controller|184|go, kubernetes, chaos, resiliency|2-10-2023|  
-|411|[poetry](https://github.com/python-poetry/poetry.git)|Python packaging and dependency management made easy|27346||12-11-2023|  
-|412|[pongo2](https://github.com/flosch/pongo2.git)|Django-syntax like template-engine for Go|2676||11-4-2023|  
-|413|[portainer](https://github.com/portainer/portainer.git)|Making Docker and Kubernetes management easy.|27054||12-11-2023|  
-|414|[practical-kubernetes-problems](https://github.com/kubernauts/practical-kubernetes-problems.git)|Used by our Practical Kubernetes Trainings.|337||31-12-2022|  
-|415|[pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform.git)|pre-commit git hooks to take care of Terraform configurations 🇺🇦|2711|||  
-|416|[professional-programming](https://github.com/charlax/professional-programming.git)|A collection of learning resources for curious software engineers|23990||30-10-2023|  
-|417|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.|2593||1-11-2023|  
-|418|[profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github.git)|Tool for visualizing GitHub profiles|19785|||  
-|419|[project-based-learning](https://github.com/practical-tutorials/project-based-learning.git)|Curated list of project-based tutorials|120476||21-3-2023|  
-|420|[project-layout](https://github.com/golang-standards/project-layout.git)|Standard Go Project Layout|42860||24-8-2023|  
-|421|[prometheus](https://github.com/prometheus/prometheus.git)|The Prometheus monitoring system and time series database.|50589||12-11-2023|  
-|422|[prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator.git)|Instrument your FastAPI with Prometheus metrics.|668|prometheus, fastapi, metrics, exporter, instrumentation|21-7-2023|  
-|423|[protobuf](https://github.com/protocolbuffers/protobuf.git)|Protocol Buffers - Google's data interchange format|61880||11-11-2023|  
-|424|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|268370||20-9-2023|  
-|425|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|13290||12-11-2023|  
-|426|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀|18141|||  
-|427|[pycryptodome](https://github.com/Legrandin/pycryptodome.git)|A self-contained cryptographic library for Python|2519|||  
-|428|[pycurl](https://github.com/pycurl/pycurl.git)|PycURL - Python interface to libcurl|1019||14-10-2023|  
-|429|[pyenv](https://github.com/pyenv/pyenv.git)|Simple Python version management|34057||12-11-2023|  
-|430|[pygradle](https://github.com/linkedin/pygradle.git)|Using Gradle to build Python projects|576|||  
-|431|[pyinotify](https://github.com/seb-m/pyinotify.git)|Monitoring filesystems events with inotify on Linux.|2269||4-6-2015|  
-|432|[pyjwt](https://github.com/jpadilla/pyjwt.git)|JSON Web Token implementation in Python|4737|||  
-|433|[pykiteconnect](https://github.com/zerodha/pykiteconnect.git)|The official Python client library for the Kite Connect trading APIs|881||16-10-2023|  
-|434|[pyscript](https://github.com/pyscript/pyscript.git)|Home Page: https://pyscript.net  Examples: https://pyscript.net/examples|17139|||  
-|435|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|10762||12-11-2023|  
-|436|[python](https://github.com/kubernetes-client/python.git)|Official Python client library for kubernetes|6100||16-10-2023|  
-|437|[python-cheatsheet](https://github.com/gto76/python-cheatsheet.git)|Comprehensive Python Cheatsheet|33699||12-11-2023|  
-|438|[python-concurrency](https://github.com/volker48/python-concurrency.git)|Code examples from my toptal engineering blog article|152|||  
-|439|[python-container](https://github.com/googleapis/python-container.git)|This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-container|46|||  
-|440|[python-decouple](https://github.com/HBNetwork/python-decouple.git)|Strict separation of config from code.|2575||17-4-2023|  
-|441|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|6644|||  
-|442|[python-fire](https://github.com/google/python-fire.git)|Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.|25485|||  
-|443|[python-guide](https://github.com/realpython/python-guide.git)|Python best practices guidebook, written for humans. |26922|||  
-|444|[python-slack-sdk](https://github.com/slackapi/python-slack-sdk.git)|Slack Developer Kit for Python|3727|||  
-|445|[python-terraform](https://github.com/beelit94/python-terraform.git)|-|448|||  
-|446|[raft.tla](https://github.com/ongardie/raft.tla.git)|TLA+ specification for the Raft consensus algorithm|395|||  
-|447|[rancher](https://github.com/rancher/rancher.git)|Complete container management platform|21751||3-11-2023|  
-|448|[ray](https://github.com/ray-project/ray.git)|Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.|28591|||  
-|449|[reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions.git)|List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!|32836|||  
-|450|[realworld](https://github.com/gothinkster/realworld.git)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|76780||26-10-2023|  
-|451|[recommenders](https://github.com/recommenders-team/recommenders.git)|Best Practices on Recommendation Systems|16658||13-10-2023|  
-|452|[redis-datasets](https://github.com/redis-developer/redis-datasets.git)|A Curated List of Sample Redis Datasets|69||6-12-2021|  
-|453|[redoc](https://github.com/Redocly/redoc.git)|📘  OpenAPI/Swagger-generated API Reference Documentation|21373|||  
-|454|[request](https://github.com/request/request.git)|🏊🏾 Simplified HTTP request client.|25650||11-2-2020|  
-|455|[requests](https://github.com/psf/requests.git)|A simple, yet elegant, HTTP library.|50521||18-10-2023|  
-|456|[rest.li](https://github.com/linkedin/rest.li.git)|Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs.|2356||3-11-2023|  
-|457|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|4413||23-10-2022|  
-|458|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|60897|||  
-|459|[rich](https://github.com/Textualize/rich.git)|Rich is a Python library for rich text and beautiful formatting in the terminal.|45405|||  
-|460|[roadmap](https://github.com/github/roadmap.git)|GitHub public roadmap|7521|||  
-|461|[rook](https://github.com/rook/rook.git)|Storage Orchestration for Kubernetes|11541||9-11-2023|  
-|462|[rover](https://github.com/im2nguyen/rover.git)|Interactive Terraform visualization. State and configuration explorer.|2719||9-10-2023|  
-|463|[roxy-wi](https://github.com/hap-wi/roxy-wi.git)|Web interface for managing Haproxy, Nginx, Apache and Keepalived servers|1328||6-11-2023|  
-|464|[rudder-server](https://github.com/rudderlabs/rudder-server.git)|Privacy and Security focused Segment-alternative, in Golang and React  |3751||10-11-2023|  
-|465|[runc](https://github.com/opencontainers/runc.git)|CLI tool for spawning and running containers according to the OCI specification|10874||11-11-2023|  
-|466|[rundeck](https://github.com/rundeck/rundeck.git)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|5125||9-11-2023|  
-|467|[salt](https://github.com/saltstack/salt.git)|Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: |13582||10-11-2023|  
-|468|[sanic](https://github.com/sanic-org/sanic.git)| Accelerate your web app development    Build fast. Run fast.|17433||7-9-2023|  
-|469|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|77||12-10-2020|  
-|470|[scalene](https://github.com/plasma-umass/scalene.git)|Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|10306|||  
-|471|[sceptre](https://github.com/Sceptre/sceptre.git)|Build better AWS infrastructure|1431|||  
-|472|[schedule](https://github.com/dbader/schedule.git)|Python job scheduling for humans.|11199||22-10-2023|  
-|473|[schema](https://github.com/keleshev/schema.git)|Schema validation just got Pythonic|2795|||  
-|474|[scrapy](https://github.com/scrapy/scrapy.git)|Scrapy, a fast high-level web crawling & scraping framework for Python.|49222||7-11-2023|  
-|475|[sdkman-cli](https://github.com/sdkman/sdkman-cli.git)|The SDKMAN! Command Line Interface|5612|||  
-|476|[sealed-secrets](https://github.com/bitnami-labs/sealed-secrets.git)|A Kubernetes controller and tool for one-way encrypted Secrets|6669||7-11-2023|  
-|477|[seaweedfs](https://github.com/seaweedfs/seaweedfs.git)|SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.|18594||10-11-2023|  
-|478|[serverless](https://github.com/serverless/serverless.git)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |45345||23-10-2023|  
-|479|[serverless-application-model](https://github.com/aws/serverless-application-model.git)|The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.|9137|||  
-|480|[service-fabric](https://github.com/microsoft/service-fabric.git)|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.|2993||18-10-2023|  
-|481|[shellcheck](https://github.com/koalaman/shellcheck.git)|ShellCheck, a static analysis tool for shell scripts|33586||8-11-2023|  
-|482|[shiv](https://github.com/linkedin/shiv.git)|shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.|1634||7-9-2023|  
-|483|[signoz](https://github.com/SigNoz/signoz.git)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool|15209||10-11-2023|  
-|484|[silver-surfer](https://github.com/devtron-labs/silver-surfer.git)|Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades|283|kubernetes, silver-surfer, kubedd, open-source, golang, hacktoberfest, kubernetes-cluster, kubernetes-upgrade|1-8-2023|  
-|485|[simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook.git)|This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible.|155||14-10-2021|  
-|486|[skaffold](https://github.com/GoogleContainerTools/skaffold.git)|Easy and Repeatable Kubernetes Development|14301||8-11-2023|  
-|487|[skipper](https://github.com/zalando/skipper.git)|An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress|2958|||  
-|488|[slack](https://github.com/integrations/slack.git)|Bring your code to the conversations you care about with the GitHub and Slack integration|2773|||  
-|489|[slate](https://github.com/slatedocs/slate.git)|Beautiful static documentation for your API|35553|||  
-|490|[sonobuoy](https://github.com/vmware-tanzu/sonobuoy.git)|Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.|2793||19-10-2023|  
-|491|[sops](https://github.com/getsops/sops.git)|Simple and flexible tool for managing secrets|14138||7-11-2023|  
-|492|[spacedrive](https://github.com/spacedriveapp/spacedrive.git)|Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.|26690||12-11-2023|  
-|493|[speedtest-cli](https://github.com/sivel/speedtest-cli.git)|Command line interface for testing internet bandwidth using speedtest.net|13038||7-7-2021|  
-|494|[spinner](https://github.com/briandowns/spinner.git)|Go (golang) package with 90 configurable terminal spinner/progress indicators.|2182|||  
-|495|[sqlc](https://github.com/sqlc-dev/sqlc.git)|Generate type-safe code from SQL|9397||9-11-2023|  
-|496|[sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide.git)|Site Reliability Engineer Interview Preparation Guide|5818||22-10-2023|  
-|497|[starlette](https://github.com/encode/starlette.git)|The little ASGI framework that shines. 🌟|8854|||  
-|498|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|32|||  
-|499|[statsd](https://github.com/statsd/statsd.git)|Daemon for easy but powerful stats aggregation|17281|||  
-|500|[steampipe](https://github.com/turbot/steampipe.git)|Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. |5702|||  
-|501|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka® running on Kubernetes|4108|||  
-|502|[structlog](https://github.com/hynek/structlog.git)|Simple, powerful, and fast logging for Python.|2822||11-11-2023|  
-|503|[styleguide](https://github.com/google/styleguide.git)|Style guides for Google-originated open-source projects|35727||23-10-2023|  
-|504|[system-design-interview](https://github.com/checkcheckzz/system-design-interview.git)|System design interview for IT companies|20421|||  
-|505|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|234995||16-3-2023|  
-|506|[systeminformer](https://github.com/winsiderss/systeminformer.git)|A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com|9571||5-11-2023|  
-|507|[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook.git)|💯 Curated coding interview preparation materials for busy software engineers|101440||3-11-2023|  
-|508|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|13352||10-11-2023|  
-|509|[telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy.git)|Detailed guide to initially deploy a simple telegram python bot to heroku|38||5-2-2022|  
-|510|[teleport](https://github.com/gravitational/teleport.git)|Protect access to all of your infrastructure.|15350||11-11-2023|  
-|511|[terminalizer](https://github.com/faressoft/terminalizer.git)|🦄 Record your terminal and generate animated gif images or share a web player|14625||15-7-2023|  
-|512|[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy.git)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|11637|||  
-|513|[terraform](https://github.com/hashicorp/terraform.git)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.|39271||10-11-2023|  
-|514|[terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops.git)|Info about many of my Terraform, AWS, and DevOps projects.|379||1-6-2023|  
-|515|[terraform-aws-documentdb-cluster](https://github.com/cloudposse/terraform-aws-documentdb-cluster.git)|Terraform module to provision a DocumentDB cluster on AWS|53||24-10-2023|  
-|516|[terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices.git)|Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰|1819|||  
-|517|[terraform-cdk](https://github.com/hashicorp/terraform-cdk.git)|Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform|4585||9-11-2023|  
-|518|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1506||9-11-2023|  
-|519|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20||12-6-2018|  
-|520|[terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi.git)|A terraform provider to manage objects in a RESTful API|729||27-10-2023|  
-|521|[terraform-switcher](https://github.com/warrensbox/terraform-switcher.git)|A command line tool to switch between different versions of terraform  (install with homebrew and more)|1245|||  
-|522|[terrascan](https://github.com/tenable/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|4277||1-11-2023|  
-|523|[terratest](https://github.com/gruntwork-io/terratest.git)| Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.|7187||6-11-2023|  
-|524|[textual](https://github.com/Textualize/textual.git)|The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.|21955||10-11-2023|  
-|525|[tflint](https://github.com/terraform-linters/tflint.git)|A Pluggable Terraform Linter|4286||12-11-2023|  
-|526|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|140674||12-7-2023|  
-|527|[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge.git)|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.|112383||28-2-2022|  
-|528|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|80046|||  
-|529|[toha](https://github.com/hugo-toha/toha.git)|A Hugo theme for personal portfolio|854|||  
-|530|[tokei](https://github.com/XAMPPRocky/tokei.git)|Count your code, quickly.|9020||24-9-2023|  
-|531|[tox](https://github.com/tox-dev/tox.git)|Command line driven CI frontend and development task automation tool.|3389||6-11-2023|  
-|532|[tqdm](https://github.com/tqdm/tqdm.git)|:zap: A Fast, Extensible Progress Bar for Python and CLI|26204||10-8-2023|  
-|533|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|45349||18-9-2023|  
-|534|[trivy](https://github.com/aquasecurity/trivy.git)|Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more|19278|||  
-|535|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4878||11-11-2023|  
-|536|[trufflehog](https://github.com/trufflesecurity/trufflehog.git)|Find and verify credentials|12655|||  
-|537|[tv](https://github.com/alexhallam/tv.git)|📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.|1942||21-8-2023|  
-|538|[typer](https://github.com/tiangolo/typer.git)|Typer, build great CLIs. Easy to code. Based on Python type hints.|12441||4-11-2023|  
-|539|[typeshed](https://github.com/python/typeshed.git)|Collection of library stubs for Python, with static types|3829|python, stub, types, typing|12-11-2023|  
-|540|[typing](https://github.com/python/typing.git)|Python static typing home. Hosts the documentation and a user help forum.|1462||4-10-2023|  
-|541|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|6034|electron, nodejs, udemy, udemy-dl, udemy-downloader-gui, windows, mac, macos, linux, downloader|11-8-2020|  
-|542|[ultimate-go](https://github.com/hoanhan101/ultimate-go.git)|The Ultimate Go Study Guide|14915||17-9-2021|  
-|543|[upterm](https://github.com/railsware/upterm.git)|A terminal emulator for the 21st century.|19313||20-5-2019|  
-|544|[uvicorn-gunicorn-docker](https://github.com/tiangolo/uvicorn-gunicorn-docker.git)|Docker image with Uvicorn managed by Gunicorn for high-performance web applications in Python with performance auto-tuning. Optionally with Alpine Linux.|559|||  
-|545|[uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker.git)|Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.|2389|uvicorn, gunicorn, asgi, web, python, python3, async, docker, docker-image, alpine, websockets, json, swagger-ui, redoc, openapi, openapi3, pydantic, json-schema, python-types, fastapi|28-11-2022|  
-|546|[vegeta](https://github.com/tsenart/vegeta.git)|HTTP load testing tool and library. It's over 9000!|22096||17-10-2023|  
-|547|[vercel](https://github.com/vercel/vercel.git)|Develop. Preview. Ship.|11425||9-11-2023|  
-|548|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|24492||14-10-2023|  
-|549|[vizceral](https://github.com/Netflix/vizceral.git)|WebGL visualization for displaying animated traffic graphs|4026||20-7-2019|  
-|550|[vscode](https://github.com/microsoft/vscode.git)|Visual Studio Code|152807||12-11-2023|  
-|551|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7688||7-9-2023|  
-|552|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|10366|||  
-|553|[wait-for-it](https://github.com/vishnubob/wait-for-it.git)|Pure bash script to test and wait on the availability of a TCP host and port|8837||22-8-2020|  
-|554|[watchdog](https://github.com/gorakhargosh/watchdog.git)|Python library and shell utilities to monitor filesystem events.|6032||10-10-2023|  
-|555|[watchman](https://github.com/facebook/watchman.git)|Watches files and records, or triggers actions, when they change. |11987||9-11-2023|  
-|556|[webkubectl](https://github.com/KubeOperator/webkubectl.git)|Run kubectl command in Web Browser.|804||29-3-2023|  
-|557|[werkzeug](https://github.com/pallets/werkzeug.git)|The comprehensive WSGI web application library.|6444||11-11-2023|  
-|558|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|37615|||  
-|559|[wrk](https://github.com/wg/wrk.git)|Modern HTTP benchmarking tool|35784||7-2-2021|  
-|560|[wrk2](https://github.com/giltene/wrk2.git)|A constant throughput, correct latency recording variant of wrk|4021|||  
-|561|[wtf](https://github.com/wtfutil/wtf.git)|The personal information dashboard for your terminal|15140||14-10-2023|  
-|562|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|524|||  
-|563|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|2038|||  
-|564|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|681||5-9-2023|  
-|565|[youtube-dl](https://github.com/ytdl-org/youtube-dl.git)|Command-line program to download videos from YouTube.com and other video sites|124488||24-9-2023|  
-|566|[yq](https://github.com/mikefarah/yq.git)|yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor|9701|||  
-|567|[ytfzf](https://github.com/pystardust/ytfzf.git)|A posix script to find and watch youtube videos from the terminal. (Without API)|3381||17-9-2023|  
-|568|[zap](https://github.com/uber-go/zap.git)|Blazing fast, structured, leveled logging in Go.|19984|||  
-|569|[zx](https://github.com/google/zx.git)|A tool for writing better scripts|38940||6-9-2023|  
+|1|[AHKs](https://github.com/TLMcode/AHKs.git)|My AHK library|142||26-11-2012|  
+|2|[ANCSReader](https://github.com/Jiesean/ANCSReader.git)|This is Android APP to use IOS ANCS service to receive or operate IOS notifications|30||24-3-2017|  
+|3|[APKKiller](https://github.com/aimardcr/APKKiller.git)|Bypass APK Signatures Verify & Integrity Check using Reflection|201||3-5-2023|  
+|4|[APKSignReader](https://github.com/aimardcr/APKSignReader.git)|An android application to read signatures on installed apps.|27||24-6-2022|  
+|5|[Android-Simple-Bluetooth-Example](https://github.com/bauerjj/Android-Simple-Bluetooth-Example.git)|Simple Android Bluetooth example to turn on/off radio and to view and connect with devices. Has associated code to connect to an Arduino.|151||20-9-2022|  
+|6|[AndroidScreencast](https://github.com/xSAVIKx/AndroidScreencast.git)|View and control your android device on PC|662||27-12-2020|  
+|7|[Ansible-SSH-Conf](https://github.com/curi0usJack/Ansible-SSH-Conf.git)|Uses Ansible to generate a new EC2 instance then an SSH conf file for that instance.|8||27-3-2020|  
+|8|[Apkmod](https://github.com/Hax4us/Apkmod.git)|Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP|650|||  
+|9|[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy.git)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|40217||12-11-2023|  
+|10|[Arf-HashtagBot](https://github.com/mecitsem/Arf-HashtagBot.git)|Send a photo and generate auto hashtag for your photos with this bot on Facebook, Telegram and Skype channels.|2|||  
+|11|[Atlas](https://github.com/Atlas-OS/Atlas.git)|🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.|8483||12-11-2023|  
+|12|[AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit.git)|AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.|824||20-9-2023|  
+|13|[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources.git)|A collection of hacking / penetration testing resources to make you better!|14096||15-9-2020|  
+|14|[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT.git)|📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources|1261|telegram, osint, osint-resources, awesome, awesome-list, telethon|13-12-2021|  
+|15|[Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL.git)|Awesome list dedicated to Windows Subsystem for Linux|4848||12-11-2023|  
+|16|[Awesome-qr.js](https://github.com/sumimakito/Awesome-qr.js.git)|An awesome QR code generator written in JavaScript.|1596||16-11-2021|  
+|17|[Beast_Bomber](https://github.com/crut0i/Beast_Bomber.git)|The best open source bomber|1156||6-11-2023|  
+|18|[BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus.git)|Browser extension that enhances BitClout pages|31||5-4-2022|  
+|19|[BlackHole](https://github.com/ExistentialAudio/BlackHole.git)|BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.|12269||7-11-2023|  
+|20|[Bombers](https://github.com/bhattsameer/Bombers.git)|SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.|2668|||  
+|21|[CMAK](https://github.com/yahoo/CMAK.git)|CMAK is a tool for managing Apache Kafka clusters|11549||12-12-2022|  
+|22|[ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox.git)|由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile|1946|chatgpt, gpt, tool, toolbox, cgpt, chrome-bookmark, chrome-bookmark-extesnsion, chrome-plugin, gpt-turbo, tampermonkey, userscript|6-6-2023|  
+|23|[Chromium-Gost](https://github.com/deemru/Chromium-Gost.git)|Chromium с поддержкой алгоритмов ГОСТ|339||8-11-2023|  
+|24|[Cloudreve](https://github.com/cloudreve/Cloudreve.git)|🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)|19316||7-10-2023|  
+|25|[CodeEdit](https://github.com/CodeEditApp/CodeEdit.git)|CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.|19299||9-11-2023|  
+|26|[ConfigurationFiles](https://github.com/samlaudev/ConfigurationFiles.git)|configuration files, such as repo (download android source file)、.git-completion.bash(git autocomplete bash)|122||4-6-2019|  
+|27|[Crunch](https://github.com/chrissimpkins/Crunch.git)|Insane(ly slow but wicked good) PNG image optimization|3301||17-6-2022|  
+|28|[CuteR](https://github.com/chinuno-usami/CuteR.git)|-|719||27-11-2020|  
+|29|[Cutegram](https://github.com/Aseman-Land/Cutegram.git)|Cutegram is a telegram client by Aseman Land. It's forked from sigram.|382|||  
+|30|[DeepFaceLab](https://github.com/smartmanru/DeepFaceLab.git)|DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).|1|||  
+|31|[DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet.git)|One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️|4845||12-11-2023|  
+|32|[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools.git)|1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..|1964||15-10-2023|  
+|33|[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT.git)|Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.|5014||8-11-2023|  
+|34|[Docker-OSX](https://github.com/sickcodes/Docker-OSX.git)|Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.|32131||13-6-2023|  
+|35|[DockerCheatSheet](https://github.com/eon01/DockerCheatSheet.git)|🐋 Docker Cheat Sheet 🐋|3548||24-4-2023|  
+|36|[Dockerfiles](https://github.com/HariSekhon/Dockerfiles.git)|50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak|1171||29-7-2023|  
+|37|[Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list.git)|List of Github repositories and articles with list of dorks for different search engines|1509||7-9-2023|  
+|38|[DownGit](https://github.com/UberGuidoZ/DownGit.git)|Create GitHub Resource Download Link|15|||  
+|39|[Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot.git)|Userbot for telegram with easiest installation|251||18-9-2023|  
+|40|[DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot.git)|Проект интернет магазина по аналогии @durgerkingbot telegram бота|91|durgerkingbot, orm, postgresql, durger-king|6-3-2023|  
+|41|[EndeavourOS-mbp](https://github.com/Redecorating/EndeavourOS-mbp.git)|Build modified EndeavourOS ISO, for use with Macs that have the T2 security chip (2018-2020).|1||18-7-2021|  
+|42|[FAQ](https://github.com/Telegram-Bot-FAQ/FAQ.git)|Русскоязычный краудсорсинговый проект помощи начинающим разработчикам Telegram ботов|157||3-11-2021|  
+|43|[FastEndpoints](https://github.com/FastEndpoints/FastEndpoints.git)|A light-weight REST API development framework for ASP.Net 6 and newer.|3350||9-11-2023|  
+|44|[FilimonovAlexey](https://github.com/FilimonovAlexey/FilimonovAlexey.git)|Файлы разметки главной страницы GitHub профиля|33||12-11-2023|  
+|45|[Flashy](https://github.com/Crazy-Marvin/Flashy.git)|Simple & Privacy-Friendly Flashlight App|68||7-11-2023|  
+|46|[GoodbyeAds](https://github.com/jerryn70/GoodbyeAds.git)|-|999||30-9-2023|  
+|47|[HackerRank-LinuxShell](https://github.com/edoardottt/HackerRank-LinuxShell.git)|HackerRank-LinuxShell Solutions :computer:|43||9-5-2021|  
+|48|[Houseclub](https://github.com/grishka/Houseclub.git)|A barebones unofficial Android app for Clubhouse|2382||8-4-2021|  
+|49|[ImageGlass](https://github.com/d2phap/ImageGlass.git)|🏞 A lightweight, versatile image viewer|5918||25-9-2023|  
+|50|[Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch.git)|ISG lets you use YouTube as cloud storage for ANY files, not just video|10760||16-3-2023|  
+|51|[InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB.git)|New method of installation ANY windows iso without USB stick / CD-DVD.|168||3-1-2022|  
+|52|[InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot.git)|-|1||21-6-2022|  
+|53|[JoinDesktop](https://github.com/ChronoStriker1/JoinDesktop.git)|A desktop app for Join built in Electron|1||23-7-2021|  
+|54|[JoinDesktop](https://github.com/joaomgcd/JoinDesktop.git)|A desktop app for Join built in Electron|218||23-7-2021|  
+|55|[KeepChatGPT](https://github.com/xcanwin/KeepChatGPT.git)|这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。|12077||12-11-2023|  
+|56|[Leaflet](https://github.com/Leaflet/Leaflet.git)|🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦|38844|javascript, leaflet, maps, hacktoberfest|12-11-2023|  
+|57|[Librefox](https://github.com/intika/Librefox.git)|Librefox: Firefox with privacy enhancements|1696||30-1-2019|  
+|58|[LunarVim](https://github.com/LunarVim/LunarVim.git)|🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.|16338||31-10-2023|  
+|59|[MagLit](https://github.com/NayamAmarshe/MagLit.git)|🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support|478||22-7-2023|  
+|60|[MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager.git)|Previously known as Fox's Magisk Module Manager (FoxMMM), this app helps users find, install "Magisk Modules" - powerful little zips/apps for your device that plug into the Magisk framework.|619|android, android-application, magisk, magisk-manager, root|7-11-2023|  
+|61|[Mailu](https://github.com/Mailu/Mailu.git)|Insular email distribution - mail server as Docker images|4974|||  
+|62|[Marzban](https://github.com/Gozargah/Marzban.git)|Unified GUI Censorship Resistant Solution Powered by Xray|1571|v2ray, xray, censorship-resistant, shadowsocks, trojan, vless, vmess, vpn, api, dashboard|3-7-2023|  
+|63|[Mermaid](https://github.com/JakeSteam/Mermaid.git)|A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere|215|mermaid, mermaidjs, cheatsheet|27-8-2023|  
+|64|[Mind-Maps](https://github.com/imran-parray/Mind-Maps.git)|Mind-Maps of Several Things|2123||29-6-2023|  
+|65|[MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet.git)|The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.|4219||29-9-2022|  
+|66|[NvChad](https://github.com/NvChad/NvChad.git)|Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.|20081||8-11-2023|  
+|67|[Olauncher](https://github.com/tanujnotes/Olauncher.git)|Minimal AF launcher for Android with daily new wallpaper.|1298||10-11-2023|  
+|68|[OneFile](https://github.com/521xueweihan/OneFile.git)|只有一个文件！|1033||3-4-2023|  
+|69|[OpenVPN-Config-Generator](https://github.com/Drewsif/OpenVPN-Config-Generator.git)|-|14|||  
+|70|[Osint-Resources](https://github.com/OldBonhart/Osint-Resources.git)|Data collected from publicly available sources to be used in an intelligence context|98||6-7-2019|  
+|71|[PHP-Parser](https://github.com/nikic/PHP-Parser.git)|A PHP parser written in PHP|16362|||  
+|72|[PiRIS](https://github.com/kolei/PiRIS.git)|Проектирование и Разработка Информационных Систем|66||27-10-2023|  
+|73|[Pixel-Launcher-Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended.git)|Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.|719||16-8-2023|  
+|74|[PornHub-downloader-python](https://github.com/mariosemes/PornHub-downloader-python.git)|Download stuff from PH the easy way.|706||25-3-2021|  
+|75|[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide.git)|🐙 Guides, papers, lecture, notebooks and resources for prompt engineering|37493||30-10-2023|  
+|76|[ProxyOn](https://github.com/ac-pm/ProxyOn.git)|Android Xposed Module to apply proxy for a specific app.|97||12-11-2015|  
+|77|[Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap.git)|Дорожная карта по изучению Python|1378||2-8-2022|  
+|78|[QA_bible](https://github.com/VladislavEremeev/QA_bible.git)|“Библия QA” - это обновляемая база знаний объемом 560+ страниц|1708||29-9-2023|  
+|79|[QtAV](https://github.com/Aseman-Land/QtAV.git)|A cross-platform multimedia framework based on Qt and FFmpeg. High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops.|2||16-7-2020|  
+|80|[RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot.git)|A Telegram RSS bot that cares about your reading experience|877||12-11-2023|  
+|81|[Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume.git)|A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!|12782||6-11-2023|  
+|82|[Remote-ADB](https://github.com/jarhot1992/Remote-ADB.git)|This is a powerful mobile adb shell & Toolbox.|454||27-8-2023|  
+|83|[RetroArch](https://github.com/Nun-z/RetroArch.git)|Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.|9||2-5-2022|  
+|84|[RnnChatPrediction](https://github.com/smartmanru/RnnChatPrediction.git)|Предсказывает ответ пользователя на основании истории чатов|1||24-5-2019|  
+|85|[Roar](https://github.com/tyllj/Roar.git)|-|21||25-12-2020|  
+|86|[RoboCI](https://github.com/Codegyre/RoboCI.git)|virtualized environment runner for Continuous Integration servers|115||29-10-2015|  
+|87|[SKScript](https://github.com/kruvcraft21/SKScript.git)|Script for Soul knight|22||19-9-2023|  
+|88|[SQL-scripts](https://github.com/HariSekhon/SQL-scripts.git)|100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DevOps / DBA / Analytics / performance engineering. Google BigQuery ML machine learning classification.|311||29-7-2023|  
+|89|[STARK3.0](https://github.com/aniketstark/STARK3.0.git)|-|196||15-8-2022|  
+|90|[SearchJumper](https://github.com/hoothin/SearchJumper.git)|Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱/搜尋醬/検索ちゃん|404|||  
+|91|[ServerBot](https://github.com/kamikazechaser/ServerBot.git)|:bulb: A Telegram Bot For Checking Server Statistics And Information.|9||7-1-2017|  
+|92|[Shaarli](https://github.com/shaarli/Shaarli.git)|The personal, minimalist, super-fast, database free, bookmarking service - community repo|3143||4-11-2023|  
+|93|[ShareX](https://github.com/ShareX/ShareX.git)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.|25908|screen-capture, screen-recorder, file-sharing, file-upload, url-shortener, color-picker, region-capture, imgur, dropbox, gif, gif-recorder, ocr, productivity, image-annotation, ftp, share, screenshot, sharex, capture, csharp||  
+|94|[Smap](https://github.com/s0md3v/Smap.git)|a drop-in replacement for Nmap powered by shodan.io|2614||16-5-2023|  
+|95|[SpaceVim](https://github.com/SpaceVim/SpaceVim.git)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20081|spacevim, neovim, vim, editor, ide, awesome, spacemacs, space-vim, vimrc, vim-distribution, vim-configuration, lua||  
+|96|[StableStudio](https://github.com/Stability-AI/StableStudio.git)|Community interface for generative AI|7811|frontend, ml, stability-ai, stable-diffusion||  
+|97|[Stringlate](https://github.com/LonamiWebs/Stringlate.git)|Android application to help in strings.xml translation|104||22-1-2019|  
+|98|[Super-preloader](https://github.com/machsix/Super-preloader.git)|Userscript to enable autopagerizing as well as preloading|534|userscript, greasemonkey, tampermonkey, violentmonkey|6-11-2023|  
+|99|[SyncTrayzor](https://github.com/canton7/SyncTrayzor.git)|Windows tray utility / filesystem watcher / launcher for Syncthing|5319||7-8-2021|  
+|100|[TeamFiles-Launcher](https://github.com/TeamFiles/TeamFiles-Launcher.git)|A launcher which aims to provide stability, speed & customization.|12||16-11-2022|  
+|101|[Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot.git)|📬 Manage and organize all your support inquiries on Telegram.|79|telegram, support, ticket, bot, telebot, python|13-12-2021|  
+|102|[TelegramStickersImport](https://github.com/DrKLO/TelegramStickersImport.git)|-|54|||  
+|103|[Telethon](https://github.com/LonamiWebs/Telethon.git)|Pure Python 3 MTProto API Telegram client library, for bots too!|8360|||  
+|104|[TermuxArch](https://github.com/SDRausty/TermuxArch.git)|You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install|1283|android, arch-linux, script, linux, chromebook, linux-distribution, installer, bash, smartphone, dotfiles, tablet, archlinux, amazon-fire, free-software, packages, bash-script, android-smartphone, screenshot, amazon, termux|15-7-2022|  
+|105|[TroikaDumper](https://github.com/gshevtsov/TroikaDumper.git)|Дампер и парсер памяти карты Тройка|422||18-7-2016|  
+|106|[Ultroid](https://github.com/TeamUltroid/Ultroid.git)|Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.|2608||9-7-2023|  
+|107|[UltroidAddons](https://github.com/TeamUltroid/UltroidAddons.git)|Plugins repository. Read the readme for more!|91||5-12-2022|  
+|108|[UltroidBot](https://github.com/sam-shubham/UltroidBot.git)|-|2||19-7-2021|  
+|109|[UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll.git)|Check updates for Android apps, Magisk modules and more!|798||5-11-2023|  
+|110|[UrgentMod](https://github.com/joker314/UrgentMod.git)|A Discord moderation bot which uses the community to ban users when the moderators are away.|9||1-4-2018|  
+|111|[VirtualApple](https://github.com/saagarjha/VirtualApple.git)|Work with macOS VMs using Virtualization|242||4-5-2023|  
+|112|[Void](https://github.com/AlphaNecron/Void.git)|Fast and elegant file hosting service.|215|||  
+|113|[Volumio2](https://github.com/volumio/Volumio2.git)|Volumio 2 - Audiophile Music Player|1355||4-4-2022|  
+|114|[WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment.git)|WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!|11449|||  
+|115|[Windows10Debloater](https://github.com/Sycnex/Windows10Debloater.git)|Script to remove Windows 10 bloatware.|17403||27-6-2021|  
+|116|[WireGuard-Scripts](https://github.com/SpryServers/WireGuard-Scripts.git)|-|2||20-2-2018|  
+|117|[XposedInstaller](https://github.com/DVDAndroid/XposedInstaller.git)|Materialised Xposed Installer|268|||  
+|118|[YMS](https://github.com/MamontenKa/YMS.git)|Сбор и анализ статистики Яндекс Музыка|15||24-9-2019|  
+|119|[YandexStation](https://github.com/AlexxIT/YandexStation.git)|Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant|1051||6-11-2023|  
+|120|[YimMenu](https://github.com/YimMenu/YimMenu.git)|YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.|837||12-11-2023|  
+|121|[YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot.git)|Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.|1172||5-10-2023|  
+|122|[adb-idea](https://github.com/pbreault/adb-idea.git)|A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.|2062||21-8-2023|  
+|123|[adm_linux_ops_questions](https://github.com/smartmanru/adm_linux_ops_questions.git)|Репозиторий частых вопросов на собеседованиях на должность администратора Linux / DevOps|1|||  
+|124|[admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard.git)|Free Bulma Admin Dashboard Template HTML + CSS/SCSS|220|||  
+|125|[aiogram](https://github.com/smartmanru/aiogram.git)|Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.|1|||  
+|126|[aiogram](https://github.com/aiogram/aiogram.git)|aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio|3947||28-10-2023|  
+|127|[aiogram-bot-template](https://github.com/Forden/aiogram-bot-template.git)|Template for creating scalable bots with aiogram|375|||  
+|128|[aiogram-structured](https://github.com/amirho3inf/aiogram-structured.git)|Code your aiogram bot faster, easier & modular.|33|||  
+|129|[aiogram_dialog](https://github.com/Tishka17/aiogram_dialog.git)|GUI framework on top of aiogram|462||12-11-2023|  
+|130|[alertgram](https://github.com/slok/alertgram.git)|Easy and simple prometheus alertmanager alerts on telegram|42||18-1-2021|  
+|131|[algo](https://github.com/trailofbits/algo.git)|Set up a personal VPN in the cloud|27780|vpn-server, strongswan, ansible, vpn, ikev2, security, encryption, ipsec, vpn-client, ssh-tunnel, wireguard|27-9-2023|  
+|132|[altr](https://github.com/jolaleye/altr.git)|:wrench: Transform your images, videos, and audio with ease|3||10-3-2019|  
+|133|[amazing-qr](https://github.com/x-hw/amazing-qr.git)|💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）|10037||7-5-2021|  
+|134|[android-binaries](https://github.com/jakev/android-binaries.git)|Binaries compiled for ARM|68||2-5-2017|  
+|135|[android-usb-gadget](https://github.com/tejado/android-usb-gadget.git)|Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱|727|||  
+|136|[android_app_efidroidmanager](https://github.com/efidroid/android_app_efidroidmanager.git)|Android App for installing and managing EFIDroid|12|||  
+|137|[androrat](https://github.com/DesignativeDave/androrat.git)|Remote Administration Tool for Android devices|1357||16-11-2012|  
+|138|[angular-awesome-list](https://github.com/Angular-RU/angular-awesome-list.git)|Список ресурсов по Angular на русском|289|angular, awesome, ui-primeng, cheatsheet-angulardart, angular-ui, material, cheatsheet, twitter, lite, slack, webpack, egghead, aot, dependency-injection, udemy, hirez, ng-seed, ngx, typescript, universal|12-7-2021|  
+|139|[ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn.git)|An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA|765|2fa, ansible, authelia, ubuntu, vpn, wireguard, adguard|16-9-2023|  
+|140|[ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard.git)|Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.|480|wireguard, vpn, linux, security, networking, ansible, ansible-role|13-6-2023|  
+|141|[ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh.git)|Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting|308||26-8-2023|  
+|142|[api](https://github.com/hhru/api.git)|HeadHunter API: документация и библиотеки|476||7-11-2023|  
+|143|[apk-utilities](https://github.com/ViRb3/apk-utilities.git)|🛠 Tools and scripts to manipulate Android APKs|206|apk, android, reverse-engineering, rce, app, reversing, adb|1-8-2023|  
+|144|[apprise](https://github.com/caronc/apprise.git)|Apprise - Push Notifications that work with just about every platform!|8902|notifications, notification-hub, notification-api, python, notification-service, alerts, notify, push-notifications, framework, apprise, notifier|5-11-2023|  
+|145|[appsmith](https://github.com/appsmithorg/appsmith.git)|Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.|29709|||  
+|146|[aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot.git)|A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive|520||3-1-2021|  
+|147|[assh](https://github.com/smartmanru/assh.git)|:computer: make your ssh client smarter|1|||  
+|148|[authentic-theme](https://github.com/webmin/authentic-theme.git)|Official theme for the best server management panel of the 21st Century|935||11-11-2023|  
+|149|[automator-collection](https://github.com/princelundgren/automator-collection.git)|Various Automator and AppleScript workflow and scripts for simplifying life|126|||  
+|150|[automator-workflows](https://github.com/sparanoid/automator-workflows.git)|A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions|480||8-4-2022|  
+|151|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|277026|||  
+|152|[awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey.git)|A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.|2374||4-9-2022|  
+|153|[awesome-adb](https://github.com/mzlogin/awesome-adb.git)|ADB Usage Complete / ADB 用法大全|10621|android-adb, android-debug-bridge, android|4-9-2023|  
+|154|[awesome-adb](https://github.com/smartmanru/awesome-adb.git)|:lollipop: ADB Usage Complete / ADB 用法大全|1|||  
+|155|[awesome-aiogram](https://github.com/pluresque/awesome-aiogram.git)|A curated list of awesome aiogram templates, libraries, open-source bots and resources|190|||  
+|156|[awesome-alice](https://github.com/sameoldmadness/awesome-alice.git)|Библиотеки и ресурсы для Яндекс.Диалогов|277|yandex-dialogs, yandex-alice, alice-sdk|16-4-2023|  
+|157|[awesome-alice](https://github.com/smartmanru/awesome-alice.git)|Библиотеки и ресурсы для Яндекс.Диалогов|1|||  
+|158|[awesome-android-performance](https://github.com/Juude/awesome-android-performance.git)|Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具) |2823||7-5-2019|  
+|159|[awesome-android-scripts](https://github.com/danielgomezrico/awesome-android-scripts.git)|Simple scripts to make your life easier for android setups|45||6-6-2019|  
+|160|[awesome-backend](https://github.com/zhashkevych/awesome-backend.git)|🚀 A curated and opinionated list of resources (English & Russian) for Backend developers   Структурированный список ресурсов для изучения Backend разработки|1154||6-9-2021|  
+|161|[awesome-bots](https://github.com/abdelhai/awesome-bots.git)|Awesome Links about bots.|438||31-10-2017|  
+|162|[awesome-bots](https://github.com/DopplerHQ/awesome-bots.git)|The most awesome list about bots ⭐️🤖|3530||27-2-2023|  
+|163|[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt.git)|Curated list of awesome tools, demos, docs for ChatGPT and GPT-3|7927||14-10-2023|  
+|164|[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts.git)|This repo includes ChatGPT prompt curation to use ChatGPT better.|92585||11-11-2023|  
+|165|[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets.git)|👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.|34993||7-11-2023|  
+|166|[awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools.git)|Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem|5663|awesome, awesome-list|10-10-2022|  
+|167|[awesome-ci](https://github.com/cytopia/awesome-ci.git)|Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.|323||5-11-2022|  
+|168|[awesome-compose](https://github.com/docker/awesome-compose.git)|Awesome Docker Compose samples|26823||9-1-2023|  
+|169|[awesome-console-services](https://github.com/chubin/awesome-console-services.git)|A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)|5043|awesome, awesome-list, resources, curl, terminal|25-11-2022|  
+|170|[awesome-docker](https://github.com/sfx101/awesome-docker.git)|:whale: A curated list of Docker resources and projects|4|||  
+|171|[awesome-flipperzero](https://github.com/UberGuidoZ/awesome-flipperzero.git)|🐬 A collection of awesome resources for the Flipper Zero device.|202||14-4-2023|  
+|172|[awesome-gpt3](https://github.com/elyase/awesome-gpt3.git)|-|4576||2-3-2023|  
+|173|[awesome-local-first](https://github.com/schickling/awesome-local-first.git)|A collection of awesome local-first projects and related things|32|||  
+|174|[awesome-mac](https://github.com/jaywcjlove/awesome-mac.git)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|64896||10-11-2023|  
+|175|[awesome-macOS](https://github.com/iCHAIT/awesome-macOS.git)|  A curated list of awesome applications, softwares, tools and shiny things for macOS.|14872||29-6-2023|  
+|176|[awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line.git)|Use your macOS terminal shell to do awesome things.|27958||2-9-2021|  
+|177|[awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps.git)|🚀 Awesome (free) web apps that work without login|2309|awesome, awesomeness, list, web-app, awesome-list, application, applications, portableapps, no-login, no-login-web-apps|16-6-2023|  
+|178|[awesome-pentest](https://github.com/enaqx/awesome-pentest.git)|A collection of awesome penetration testing resources, tools and other shiny things|19531||3-11-2023|  
+|179|[awesome-ricing](https://github.com/fosslife/awesome-ricing.git)|A curated list of awesome tools and technology to help you out with ricing on linux|1880||15-10-2023|  
+|180|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted.git)|A list of Free Software network services and web applications which can be hosted on your own servers|155138||8-11-2023|  
+|181|[awesome-shell](https://github.com/smartmanru/awesome-shell.git)|A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.|1|||  
+|182|[awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin.git)|A curated list of amazingly awesome open-source sysadmin resources.|20384|||  
+|183|[awesome-terminals](https://github.com/cdleon/awesome-terminals.git)|Terminal Emulators|848||19-9-2023|  
+|184|[awesome-tuis](https://github.com/rothgar/awesome-tuis.git)|List of projects that provide terminal user interfaces|5530||31-10-2023|  
+|185|[awesome-tunneling](https://github.com/anderspitman/awesome-tunneling.git)|List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.|10597||20-10-2023|  
+|186|[awesome-vpn](https://github.com/udpsec/awesome-vpn.git)|科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。|501||8-8-2017|  
+|187|[backend-cheats](https://github.com/cheatsnake/backend-cheats.git)|📃 White paper for Backend developers|1955||9-11-2023|  
+|188|[banana-js](https://github.com/smartmanru/banana-js.git)|-|1||21-8-2019|  
+|189|[bash-menu-generator](https://github.com/JamieCruwys/bash-menu-generator.git)|A simple bash script that will generate menus|51||3-11-2018|  
+|190|[bash-script-template](https://github.com/smartmanru/bash-script-template.git)|A best practices Bash script template with several useful functions|1||28-6-2019|  
+|191|[bash-scripts](https://github.com/frgomes/bash-scripts.git)|A collection of useful shell scripts, for the lazy and impatient.|54|||  
+|192|[bash-scripts](https://github.com/aamnah/bash-scripts.git)|Bash scripts to get stuff done..|43||24-7-2022|  
+|193|[bash.env](https://github.com/midwire/bash.env.git)|Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote machines.|55||7-3-2023|  
+|194|[bashblog](https://github.com/cfenollosa/bashblog.git)|A single Bash script to create blogs. Download, run, write, done!|1554||26-3-2022|  
+|195|[bashlex](https://github.com/idank/bashlex.git)|Python parser for bash|510|||  
+|196|[betwixt](https://github.com/kdzwinel/betwixt.git)|:zap: Web Debugging Proxy based on Chrome DevTools Network panel.|4511|capture-traffic, proxy, electron, chrome-devtools, mitm||  
+|197|[bins](https://github.com/smartmanru/bins.git)|All smartmanru's bins|1|||  
+|198|[bjs-diplom](https://github.com/netology-code/bjs-diplom.git)|Дипломное задание к курсу «Основы JavaScript»|22||16-2-2023|  
+|199|[bookmarkleter](https://github.com/chriszarate/bookmarkleter.git)|You have JavaScript. You need a bookmarklet. This does that.|282||5-3-2023|  
+|200|[boringtun](https://github.com/cloudflare/boringtun.git)|Userspace WireGuard® Implementation in Rust|5489|wireguard, rust, cloudflare|24-10-2023|  
+|201|[bottender](https://github.com/Yoctol/bottender.git)|⚡️ A framework for building conversational user interfaces.|4119|||  
+|202|[box_for_magisk](https://github.com/taamarin/box_for_magisk.git)|Transparent Proxy for Android(root) |477||9-11-2023|  
+|203|[cal.com](https://github.com/calcom/cal.com.git)|Scheduling infrastructure for absolutely everyone.|24795||12-11-2023|  
+|204|[calendar_notifier](https://github.com/rfoxxxy/calendar_notifier.git)|-|1||29-11-2021|  
+|205|[caretta](https://github.com/groundcover-com/caretta.git)|Instant K8s service dependency map, right to your Grafana.|1519||2-11-2023|  
+|206|[certcheckerbot](https://github.com/Stuchalin/certcheckerbot.git)|Simple telegram bot for check certificate expiry dates|2||2-11-2022|  
+|207|[chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension.git)|Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.|1225|chatgpt, chrome-extension, google, google-chatgpt, browser-extension, firefox-extension, youtube|10-11-2023|  
+|208|[clash](https://github.com/smartmanru/clash.git)|A rule-based tunnel in Go.|1|||  
+|209|[cli-apps](https://github.com/toolleeo/cli-apps.git)|The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files|719|cli-apps, linux, linux-command, awesome, awesome-list, resources, command-line, command-line-tool, cli, terminal-based, tui|10-11-2023|  
+|210|[client](https://github.com/Droid-ify/client.git)|F-Droid client with Material UI. |2004||10-11-2023|  
+|211|[clog](https://github.com/S-trace/clog.git)|Android log colorizer|4||13-10-2022|  
+|212|[cmatrix](https://github.com/abishekvashok/cmatrix.git)|Terminal based "The Matrix" like implementation|3493|c, matrix, screensaver|1-3-2023|  
+|213|[codeface](https://github.com/chrissimpkins/codeface.git)|Typefaces for source code beautification|6042|||  
+|214|[commands](https://github.com/pete911/commands.git)|-|7||23-5-2022|  
+|215|[common-words](https://github.com/yoksel/common-words.git)|🧐 Слова, часто используемые в CSS-классах|3022||23-2-2023|  
+|216|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|152227||9-11-2023|  
+|217|[containers](https://github.com/bitnami/containers.git)|Bitnami container images|2019|||  
+|218|[content](https://github.com/doka-guide/content.git)|Контент Доки: статьи, картинки, демки и документация для авторов|985||10-11-2023|  
+|219|[contentlayer](https://github.com/contentlayerdev/contentlayer.git)|Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app|2619|||  
+|220|[coupon-code](https://github.com/baxang/coupon-code.git)|Generate and validate coupon codes.|59|||  
+|221|[csssr-project-template](https://github.com/CSSSR/csssr-project-template.git)|[deprecated] Шаблон проекта для быстрого старта.|536||12-2-2020|  
+|222|[ctop](https://github.com/bcicen/ctop.git)|Top-like interface for container metrics|14741||1-8-2022|  
+|223|[cypress](https://github.com/cypress-io/cypress.git)|Fast, easy and reliable testing for anything that runs in a browser.|45193||8-11-2023|  
+|224|[dcinja](https://github.com/Falldog/dcinja.git)|The smallest binary size of template engine, born for docker image|7||17-7-2021|  
+|225|[dd-wrt](https://github.com/lattera/dd-wrt.git)|-|9||4-5-2012|  
+|226|[dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana.git)|-|35||23-11-2016|  
+|227|[dd-wrt-openvpn-config-creator](https://github.com/LiquidVPN-inc/dd-wrt-openvpn-config-creator.git)|Create DD-WRT OpenVPN Configurations for virtually all VPN services that rely on username and password to connect. |1|||  
+|228|[debian-server-tools](https://github.com/szepeviktor/debian-server-tools.git)|Tools and living docs 🧬 for Debian-based servers and Web Applications|463||7-11-2023|  
+|229|[debos](https://github.com/go-debos/debos.git)|Debian OS builder|477||11-11-2023|  
+|230|[deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas.git)|List of "only yours" cloud services for everyday needs :black_flag:|4514||26-2-2023|  
+|231|[deprecated-yandex-speechkit-android](https://github.com/yandexmobile/deprecated-yandex-speechkit-android.git)|Yandex SpeechKit for Android |20||2-11-2022|  
+|232|[dev](https://github.com/github/dev.git)|Press the . key on any repo|1031|||  
+|233|[devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet.git)|A cheatsheet for developers using Chrome DevTools|540||10-5-2018|  
+|234|[dialog-sticker-bot](https://github.com/Firemoon777/dialog-sticker-bot.git)|-|10||23-12-2021|  
+|235|[django-telegram-bot](https://github.com/ohld/django-telegram-bot.git)|My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template|580|telegram-bot, django, celery, redis, postgresql, dokku, github-actions, telegram|7-9-2023|  
+|236|[dl-visuals](https://github.com/dvgodoy/dl-visuals.git)|Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.|1311||6-6-2021|  
+|237|[dns-adblock](https://github.com/AndiDittrich/dns-adblock.git)|PHP based Converter to create dnsmasq and unbound compatible adblock lists|6||24-8-2017|  
+|238|[dns-rkn-mikrotic](https://github.com/maxvinza/dns-rkn-mikrotic.git)|Скрипты для автомотического внесения статических записей в dns-кэш микротика|14||18-5-2018|  
+|239|[dock-droid](https://github.com/sickcodes/dock-droid.git)|Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!|803||22-4-2022|  
+|240|[docker](https://github.com/EpicMorg/docker.git)|A collection of docker images for production use. This repo contains 2 types of images - advanced and ecosystem. We support linux x86_64 docker engine (Win64 is still in the testing stage).|12||7-11-2023|  
+|241|[docker-machine-vmwareworkstation](https://github.com/pecigonzalo/docker-machine-vmwareworkstation.git)|VMWare Workstation driver for Docker Machine https://github.com/docker/machine|364||4-10-2019|  
+|242|[docker-proxy-rkn](https://github.com/smartmanru/docker-proxy-rkn.git)|Telegram bot proxy|1|||  
+|243|[dockly](https://github.com/lirantal/dockly.git)|Immersive terminal interface for managing docker containers and services|3583||14-8-2023|  
+|244|[docusaurus](https://github.com/facebook/docusaurus.git)|Easy to maintain open source documentation websites.|49278|||  
+|245|[dotfiles](https://github.com/vimhack/dotfiles.git)|🍀 Vim/Neovim + Tmux + Zsh + Alacritty = Build your own fantastic development environment|76||20-10-2023|  
+|246|[dotfiles](https://github.com/matchai/dotfiles.git)|💻 Public repo for my personal dotfiles|139||11-10-2023|  
+|247|[droid-native](https://github.com/sickcodes/droid-native.git)|Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid|112||27-9-2021|  
+|248|[dumbproxy](https://github.com/Snawoot/dumbproxy.git)|Dumbest HTTP proxy ever|278||12-11-2023|  
+|249|[eMarket](https://github.com/musicman3/eMarket.git)|eMarket Online Store. It is a free online shop engine. Make the best online shop with us. Join our Open Source community. Together we will make the best free e-commerce solution.|68||30-6-2023|  
+|250|[edex-ui](https://github.com/GitSquared/edex-ui.git)|A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.|38998|terminal, science-fiction, linux, windows, nodejs, electron, edex-ui, shell, macos, desktop, unixporn, tron, touchscreen|19-10-2021|  
+|251|[elFinder](https://github.com/Studio-42/elFinder.git)|📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI|4508|||  
+|252|[engine-sim](https://github.com/ange-yaghi/engine-sim.git)|Combustion engine simulator that generates realistic audio.|8276|||  
+|253|[errbot](https://github.com/errbotio/errbot.git)|Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.|2984||30-10-2023|  
+|254|[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know.git)|A collection of (mostly) technical things every software developer should know about|73339|||  
+|255|[exchangerate.host](https://github.com/Formicka/exchangerate.host.git)| Exchange rates API is a simple and lightweight free service for current and historical foreign exchange rates & crypto exchange rates. |354|echangerate, exchange-rates, exchange-api, currency-converter, currency-exchange-rates, currency-api, vue, api-exchange-rates, exchange-rate-forecasting, ecb-rates, ecb-currency-converter, europe-central-bank, serverless-application-model|12-4-2023|  
+|256|[express-ya](https://github.com/smartmanru/express-ya.git)|-|2|||  
+|257|[expromptum](https://github.com/artlebedev/expromptum.git)|Expromptum js library|101||2-10-2023|  
+|258|[faq](https://github.com/ru-python-beginners/faq.git)|Русскоязычный краудсорсинговый проект помощи начинающим python разработчикам|448|||  
+|259|[favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet.git)|Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)|9829|||  
+|260|[ffuf](https://github.com/ffuf/ffuf.git)|Fast web fuzzer written in Go|10437||22-10-2023|  
+|261|[fiche](https://github.com/drscream/fiche.git)|Command line pastebin for sharing terminal output.|2||19-10-2021|  
+|262|[firenvim](https://github.com/glacambre/firenvim.git)|Embed Neovim in Chrome, Firefox & others.|4087||18-8-2023|  
+|263|[flipper-hackathon-moscow](https://github.com/flipperdevices/flipper-hackathon-moscow.git)|Flipper Hackathon Moscow 2021|33||27-11-2021|  
+|264|[forgit](https://github.com/wfxr/forgit.git)|:zzz: A utility tool powered by fzf for using git interactively.|4063||27-8-2023|  
+|265|[format-README](https://github.com/GnuriaN/format-README.git)|Формат файла README|964||30-5-2023|  
+|266|[formatbot1](https://github.com/albertincx/formatbot1.git)|Make instant view easily and fast, from any article on the internet in the best messenger ever Telegram|148|||  
+|267|[frameworks_base](https://github.com/SOKP/frameworks_base.git)|-|1||20-9-2015|  
+|268|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|76375||11-11-2023|  
+|269|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|303057||7-11-2023|  
+|270|[frontend](https://github.com/deso-protocol/frontend.git)|DeSo frontend|264||8-9-2023|  
+|271|[frontend](https://github.com/home-assistant/frontend.git)|:lollipop: Frontend for Home Assistant|3342||12-11-2023|  
+|272|[github-readme-stats](https://github.com/diced/github-readme-stats.git)|:zap: Dynamically generated stats for your github readmes|1||22-4-2021|  
+|273|[glider](https://github.com/nadoo/glider.git)|glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).|2520||20-3-2023|  
+|274|[glightbox](https://github.com/biati-digital/glightbox.git)|Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes|1774||12-7-2023|  
+|275|[gnirehtet](https://github.com/Genymobile/gnirehtet.git)|Gnirehtet provides reverse tethering for Android|5512||9-7-2023|  
+|276|[go-whatsapp](https://github.com/Rhymen/go-whatsapp.git)|WhatsApp Web API|1987||19-1-2022|  
+|277|[gocrack](https://github.com/mandiant/gocrack.git)|GoCrack is a management frontend for password cracking tools written in Go|1088||24-7-2023|  
+|278|[google-unlocked](https://github.com/Ibit-to/google-unlocked.git)|Google Unlocked browser extension uncensor google search results|2082||20-1-2022|  
+|279|[gotop](https://github.com/cjbassi/gotop.git)|A terminal based graphical activity monitor inspired by gtop and vtop|7323||29-8-2020|  
+|280|[gpt-engineer](https://github.com/AntonOsika/gpt-engineer.git)|Specify what you want it to build, the AI asks for clarification, and then builds it.|45547||5-11-2023|  
+|281|[gpt4free](https://github.com/xtekky/gpt4free.git)|The official gpt4free repository   various collection of powerful language models|48671|chatgpt, chatgpt-4, chatgpt4, gpt, gpt-3, gpt-4, gpt3, gpt4, gpt4-api, openai, openai-api, openai-chatgpt, chatbot, chatbots, chatgpt-api, language-model, python, reverse-engineering, chatgpt-free, free-gpt||  
+|282|[gramjs](https://github.com/gram-js/gramjs.git)|NodeJS/Browser MTProto API Telegram client library,|923||1-11-2023|  
+|283|[grammY](https://github.com/grammyjs/grammY.git)|The Telegram Bot Framework.|1455||22-10-2023|  
+|284|[graphpath](https://github.com/ocochard/graphpath.git)|Graphpath generates an ASCII network diagram from the route table of a Unix/Linux|364||19-10-2021|  
+|285|[gspread](https://github.com/burnash/gspread.git)|Google Sheets Python API|6641||11-11-2023|  
+|286|[guide.bash.academy](https://github.com/lhunath/guide.bash.academy.git)|Bash Academy - The Bash Guide|967||16-10-2023|  
+|287|[guides](https://github.com/netology-code/guides.git)|Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии|174||9-6-2023|  
+|288|[haaukins](https://github.com/aau-network-security/haaukins.git)|A Highly Accessible and Automated Virtualization Platform for Security Education|172||29-7-2022|  
+|289|[hacker-scripts](https://github.com/NARKOZ/hacker-scripts.git)|Based on a true story|46906||7-8-2022|  
+|290|[hackingtool](https://github.com/Z4nzu/hackingtool.git)|ALL IN ONE Hacking Tool For Hackers|40750||24-10-2023|  
+|291|[hacktricks](https://github.com/carlospolop/hacktricks.git)|Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.|7407||11-11-2023|  
+|292|[hacktricks-cloud](https://github.com/carlospolop/hacktricks-cloud.git)|-|378||9-11-2023|  
+|293|[hadolint](https://github.com/hadolint/hadolint.git)|Dockerfile linter, validate inline bash, written in Haskell|9133||28-8-2023|  
+|294|[hassio-addons](https://github.com/alexbelgium/hassio-addons.git)|My homeassistant addons|969||12-11-2023|  
+|295|[helix](https://github.com/helix-editor/helix.git)|A post-modern modal text editor.|26062|||  
+|296|[hello-github-actions](https://github.com/smartmanru/hello-github-actions.git)|-|1|||  
+|297|[hh_auto_click](https://github.com/RicharSte/hh_auto_click.git)|-|52||17-2-2023|  
+|298|[hoppscotch](https://github.com/hoppscotch/hoppscotch.git)|👽 Open source API development ecosystem - https://hoppscotch.io|56437||8-11-2023|  
+|299|[hosts](https://github.com/StevenBlack/hosts.git)|🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.|24153||11-11-2023|  
+|300|[hostscan-bypass](https://github.com/Gilks/hostscan-bypass.git)|Generate OpenConnect CSD files to bypass Cisco AnyConnect hostscan requirements|235||16-6-2020|  
+|301|[hsdata](https://github.com/HearthSim/hsdata.git)|Hearthstone Data|243||2-11-2023|  
+|302|[html-template](https://github.com/rfoxxxyshit/html-template.git)|Тупа крутой темплейт карочи вот тут можно посмотреть|14||12-11-2020|  
+|303|[httplab](https://github.com/qustavo/httplab.git)|The interactive web server|3924||17-10-2023|  
+|304|[huginn](https://github.com/huginn/huginn.git)|Create agents that monitor and act on your behalf.  Your agents are standing by!|39715||23-7-2023|  
+|305|[imgproxy](https://github.com/imgproxy/imgproxy.git)|Fast and secure standalone server for resizing and converting remote images|7690||6-11-2023|  
+|306|[imgpush](https://github.com/hauxir/imgpush.git)|Minimalist Self-hosted Image Service for user submitted images in your app |259||11-11-2021|  
+|307|[imscp](https://github.com/i-MSCP/imscp.git)|i-MSCP - internet Multi-Server Control Panel|204|free, hosting, linux, panel, admin, reseller, client, professional, php, perl, c, html5, debian, ubuntu, debian-server, ubuntu-server, control-panel, i-mscp, imscp|31-12-2021|  
+|308|[informer](https://github.com/smartmanru/informer.git)|A Telegram Mass Surveillance Bot in Python|1||12-12-2019|  
+|309|[infra_actions](https://github.com/Turonk/infra_actions.git)|Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)|15||2-12-2021|  
+|310|[is.sh](https://github.com/hagenw/is.sh.git)|Human readable conditions for bash|3|||  
+|311|[itsagramlive](https://github.com/harrypython/itsagramlive.git)|It's A Gram Live is a Python script that create a Instagram Live and provide you a rtmp server and stream key to streaming using sofwares like OBS-Studio.|174||19-3-2021|  
+|312|[itstelegram](https://github.com/itsumma/itstelegram.git)|Telegram Desktop messaging app|27||27-5-2016|  
+|313|[javascript-questions](https://github.com/lydiahallie/javascript-questions.git)|A long list of (advanced) JavaScript questions, and their explanations :sparkles:  |57307||24-9-2023|  
+|314|[jc](https://github.com/kellyjonbrazil/jc.git)|CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.|6503||24-10-2023|  
+|315|[jsdom](https://github.com/jsdom/jsdom.git)|A JavaScript implementation of various web standards, for use with Node.js|19358|||  
+|316|[json2yaml](https://github.com/redsymbol/json2yaml.git)|Simple command line tool to convert JSON to YAML|12||27-4-2016|  
+|317|[katana](https://github.com/projectdiscovery/katana.git)|A next-generation crawling and spidering framework.|7657|||  
+|318|[krackattacks](https://github.com/vanhoefm/krackattacks.git)|-|1324||25-5-2023|  
+|319|[krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts.git)|-|3239||16-10-2022|  
+|320|[ksnip](https://github.com/ksnip/ksnip.git)|ksnip the cross-platform screenshot and annotation tool|1758||7-11-2023|  
+|321|[kube-dump](https://github.com/WoozyMasta/kube-dump.git)|Backup a Kubernetes cluster as a yaml manifest|278||19-5-2022|  
+|322|[kubeapps](https://github.com/vmware-tanzu/kubeapps.git)|A web-based UI for deploying and managing applications in Kubernetes clusters|4703|||  
+|323|[langmf](https://github.com/langmf/langmf.git)|The LangMF scripting language runs on the engine - VBScript, JavaScript, Chakra, VB.NET, C#.|7||2-8-2023|  
+|324|[laptop](https://github.com/thoughtbot/laptop.git)|A shell script to set up a macOS laptop for web and mobile development.|8418||4-10-2023|  
+|325|[lazyflasher](https://github.com/jcadduono/lazyflasher.git)|An easy way to patch ramdisks, replace kernels, and install files to your phone through recovery.|218||12-11-2019|  
+|326|[leproxy](https://github.com/leproxy/leproxy.git)|LeProxy is the HTTP/SOCKS proxy server for everybody!|196||31-10-2022|  
+|327|[libfuse-android](https://github.com/Vayu/libfuse-android.git)|libfuse patched to compile for android|16||3-11-2012|  
+|328|[linkcheck](https://github.com/redsymbol/linkcheck.git)|(pre-alpha - do not use) Check for broken links on website. Built for CI/devops automation|1||7-6-2019|  
+|329|[listmonk](https://github.com/knadh/listmonk.git)|High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.|12034|||  
+|330|[littleTools](https://github.com/xuxinkun/littleTools.git)|A set of short commands used to make the input of some commands simple.|141||6-7-2020|  
+|331|[livepython](https://github.com/agermanidis/livepython.git)|Visually trace Python code in real-time.|2551||14-11-2017|  
+|332|[mac-ops](https://github.com/todd-dsm/mac-ops.git)|QnD Automation to build a MacBook Pro for DevOps|10||13-3-2022|  
+|333|[marker](https://github.com/pindexis/marker.git)|The terminal command palette|1987||27-3-2019|  
+|334|[masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template.git)|This is a scalable and functional template for any bots which will be made with aiogram 3.x|77|aiogram, aiogram3, bot, open-source, telegram, template|3-8-2023|  
+|335|[mbp-fedora-kernel](https://github.com/mikeeq/mbp-fedora-kernel.git)|-|63||27-7-2023|  
+|336|[mcxToProfile](https://github.com/timsutton/mcxToProfile.git)|Convert macOS property lists, defaults and MCX into Configuration Profiles with Custom Settings payloads|517||10-10-2022|  
+|337|[messaging-apis](https://github.com/bottenderjs/messaging-apis.git)|Messaging APIs for multi-platform|1872||13-12-2022|  
+|338|[mkdocs-with-confluence](https://github.com/pawelsikora/mkdocs-with-confluence.git)|MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API|54||14-10-2022|  
+|339|[mod.land](https://github.com/denosaurs/mod.land.git)|📦 Pretty subdomains for you deno project|188||2-7-2023|  
+|340|[modern-unix](https://github.com/ibraheemdev/modern-unix.git)|A collection of modern/faster/saner alternatives to common unix commands.|28465||4-2-2023|  
+|341|[modules-repo](https://github.com/friendly-telegram/modules-repo.git)|REPOSITORY MOVED|11|||  
+|342|[monkey](https://github.com/guardicore/monkey.git)|Infection Monkey - An open-source adversary emulation platform|6360||10-11-2023|  
+|343|[mosmetro-python](https://github.com/mosmetro-android/mosmetro-python.git)|Скрипт для автоматической авторизации в сетях московского общественного транспорта|46||23-2-2022|  
+|344|[mrvpn](https://github.com/AlexMKX/mrvpn.git)|Multi-Route VPN|148||10-7-2022|  
+|345|[my-awesome](https://github.com/smartmanru/my-awesome.git)|-|3|||  
+|346|[my-bash-config](https://github.com/frontdevops/my-bash-config.git)|My Shell configurations|3||31-5-2023|  
+|347|[my-mac](https://github.com/nikitavoloboev/my-mac.git)|Apps/tools I use on macOS|20107||15-10-2023|  
+|348|[mytetra_syncro](https://github.com/xintrea/mytetra_syncro.git)|Xintrea personal encyclopedy from MyTetra|12|||  
+|349|[nakarte](https://github.com/wladich/nakarte.git)|Source code of site http://nakarte.me|139||13-9-2023|  
+|350|[nb](https://github.com/xwmx/nb.git)|CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.|5850||10-11-2023|  
+|351|[ncalc](https://github.com/tranleduy2000/ncalc.git)|Power calculator for Android. Solve some problem algebra  and calculus.|657||22-5-2021|  
+|352|[neovim](https://github.com/neovim/neovim.git)|Vim-fork focused on extensibility and usability|70832|||  
+|353|[nerd-fonts](https://github.com/ryanoasis/nerd-fonts.git)|Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more|47603|fonts, patched-fonts, powerline, shell, statusline, python, iconic-fonts, patcher, font-awesome, octicons, font, icon-font, hacktoberfest|11-11-2023|  
+|354|[netshoot](https://github.com/nicolaka/netshoot.git)|a Docker + Kubernetes network trouble-shooting swiss-army container|6835||10-5-2023|  
+|355|[netstalking-osint](https://github.com/netstalking-core/netstalking-osint.git)|Коллекция материалов по OSINT для нетсталкинга|334||31-1-2021|  
+|356|[nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook.git)|How to improve NGINX performance, security, and other important things.|13254|nginx, nginx-proxy, nginx-configuration, security, performance, http, https, ssllabs, notes, cheatsheet, reference, handbook, best-practices, hacks, snippets, tengine, openresty|20-10-2021|  
+|357|[nginx-admins-handbook](https://github.com/smartmanru/nginx-admins-handbook.git)|How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.|2||20-10-2021|  
+|358|[nginx-ui](https://github.com/0xJacky/nginx-ui.git)|Yet another WebUI for Nginx|1100|nginx, webui, vue, self-hosted, go, chatgpt-app, cron, letsencrypt|12-11-2023|  
+|359|[nginxconfig.io](https://github.com/digitalocean/nginxconfig.io.git)|⚙️ NGINX config generator on steroids 💉|26373||7-11-2023|  
+|360|[ngs](https://github.com/ngs-lang/ngs.git)|Next Generation Shell (NGS)|1237||18-5-2023|  
+|361|[nicegui](https://github.com/zauberzeug/nicegui.git)|Create web-based user interfaces with Python. The nice way.|5819|gui, python, webapp, robotics, toolkit, frontend, interaction, scripting, interface, interfaces, website|12-11-2023|  
+|362|[nocodb](https://github.com/nocodb/nocodb.git)|🔥 🔥 🔥 Open Source Airtable Alternative|38519||11-11-2023|  
+|363|[nve](https://github.com/ehmicky/nve.git)|Run any command on specific Node.js versions|661|nodejs, node, nvm, npx, versions, versioning, exec, shell, terminal, command-line, cli, dependency-management, es6, javascript, library, npmjs, operating-system, package-manager, server, bash|22-10-2023|  
+|364|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|71432||3-11-2023|  
+|365|[octotui](https://github.com/irevenko/octotui.git)|🐙🐱🖥️ GitHub stats in your terminal|207||29-5-2021|  
+|366|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|164045||8-11-2023|  
+|367|[olgram](https://github.com/civsocit/olgram.git)|Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor.|138|||  
+|368|[open-interpreter](https://github.com/KillianLucas/open-interpreter.git)|OpenAI's Code Interpreter in your terminal, running locally|32558|chatgpt, gpt-4, python, codellama, interpreter, llama2|12-11-2023|  
+|369|[open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps.git)|🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps|37503||2-11-2023|  
+|370|[openvpn-install](https://github.com/Nyr/openvpn-install.git)|OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora|17748||8-11-2023|  
+|371|[openwayback](https://github.com/iipc/openwayback.git)|The OpenWayback Development|458||25-6-2021|  
+|372|[openwebtext2](https://github.com/EleutherAI/openwebtext2.git)|-|70|||  
+|373|[osctrl-docs](https://github.com/smartmanru/osctrl-docs.git)|Documentation for osctrl|1|||  
+|374|[overkill](https://github.com/xiaofen9/overkill.git)|auto aiming|181||14-7-2019|  
+|375|[page-walker](https://github.com/rafal-qa/page-walker.git)|Chrome DevTools automation for desktop and mobile devices|19|||  
+|376|[page2feed](https://github.com/wladich/page2feed.git)|Monitor changes of any web page create RSS feed|2||15-3-2018|  
+|377|[pageres](https://github.com/sindresorhus/pageres.git)|Capture website screenshots|9582||6-11-2023|  
+|378|[pam-touchid](https://github.com/spaghetti-/pam-touchid.git)|Pluggable Authentication Module for TouchID enabled MacBooks|33||7-3-2021|  
+|379|[pasty](https://github.com/lus/pasty.git)|pasty is a fast and lightweight code pasting server|183||7-2-2022|  
+|380|[peter.sh](https://github.com/beverloo/peter.sh.git)|Source-code for http://peter.sh/.|180||28-7-2023|  
+|381|[pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync.git)|Use LDAP permissions in PostgreSQL|122||28-8-2023|  
+|382|[photoview](https://github.com/photoview/photoview.git)|Photo gallery for self-hosted personal servers|4289||10-7-2023|  
+|383|[pi-apps](https://github.com/Botspot/pi-apps.git)|Raspberry Pi App Store for Open Source Projects|1576||12-11-2023|  
+|384|[pidcat](https://github.com/JakeWharton/pidcat.git)|Colored logcat script which only shows log entries for a specific application package.|4739||31-1-2022|  
+|385|[pixelvisualcorecamera](https://github.com/smartmanru/pixelvisualcorecamera.git)|-|1||27-9-2019|  
+|386|[playkey-linux-monkeypatch](https://github.com/aoleg94/playkey-linux-monkeypatch.git)|-|3||24-7-2018|  
+|387|[postman-patcher](https://github.com/nikandlv/postman-patcher.git)|Allows postman to render javascript in preview|38|postman, postman-client|16-9-2019|  
+|388|[prometheus_bot](https://github.com/inCaller/prometheus_bot.git)|Telegram bot for prometheus alerting|375|||  
+|389|[prompts-for-edu](https://github.com/microsoft/prompts-for-edu.git)|-|1102||2-10-2023|  
+|390|[proxify](https://github.com/projectdiscovery/proxify.git)|A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.|2417||12-8-2023|  
+|391|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|268373|||  
+|392|[pulp](https://github.com/purescript-contrib/pulp.git)|A build tool for PureScript projects|447||18-6-2022|  
+|393|[puppeteer](https://github.com/smartmanru/puppeteer.git)|-|1|||  
+|394|[pure](https://github.com/sindresorhus/pure.git)|Pretty, minimal and fast ZSH prompt|12459||25-6-2023|  
+|395|[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible.git)|📖 A collection of pure bash alternatives to external processes.|35020||21-10-2020|  
+|396|[pyUltroid](https://github.com/TeamUltroid/pyUltroid.git)|[Ultroid] Base Library - Telethon|29||6-6-2022|  
+|397|[pygsheets](https://github.com/nithinmurali/pygsheets.git)|Google Sheets Python API v4|1455||28-9-2023|  
+|398|[pyrobud](https://github.com/kdrag0n/pyrobud.git)|A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients.|117|||  
+|399|[python-scripts](https://github.com/DarkCat09/python-scripts.git)|Some useful python scripts|9||5-8-2021|  
+|400|[python_interview_questions](https://github.com/yakimka/python_interview_questions.git)|Вопросы для подготовки к интервью на позицию Python Developer|1013||21-2-2023|  
+|401|[qart.js](https://github.com/kciter/qart.js.git)|Generate artistic QR code. 🎨|3128||26-6-2023|  
+|402|[qhttp](https://github.com/Aseman-Land/qhttp.git)|a light-weight and asynchronous HTTP library (both server & client) in Qt5 and c++14|2||6-9-2021|  
+|403|[qr-code-styling](https://github.com/kozakdenys/qr-code-styling.git)|Automaticly generate your styled QR code in your web app.|1057||29-5-2021|  
+|404|[qrbtf](https://github.com/ciaochaos/qrbtf.git)|An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com|5530||22-6-2023|  
+|405|[quadlet](https://github.com/containers/quadlet.git)|-|328|||  
+|406|[queue_analysis](https://github.com/mmkuznecov/queue_analysis.git)|System for queue detection and control|9||12-12-2020|  
+|407|[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins.git)|List of useful Quick Look plugins for developers|17567||25-1-2022|  
+|408|[rasa](https://github.com/RasaHQ/rasa.git)|💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants|17212|nlp, machine-learning, machine-learning-library, bot, bots, botkit, rasa, wit, nlu, conversational-bots, conversational-agents, conversational-ai, spacy, mitie, chatbot, chatbots, chatbots-framework, bot-framework, natural-language-processing, conversation-driven-development|23-10-2023|  
+|409|[redoc](https://github.com/Redocly/redoc.git)|📘  OpenAPI/Swagger-generated API Reference Documentation|21374|openapi, swagger, api-documentation, documentation-tool, documentation-generator, redoc, reactjs, openapi3, hacktoberfest, openapi-specification, openapi31|9-11-2023|  
+|410|[redroid-doc](https://github.com/remote-android/redroid-doc.git)|redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here|2939||10-11-2023|  
+|411|[register](https://github.com/is-a-dev/register.git)|Grab your own sweet-looking '.is-a.dev' subdomain|2399||12-11-2023|  
+|412|[register](https://github.com/is-a-good-dev/register.git)|Register for your is-a-good.dev domain!|250||12-10-2023|  
+|413|[rice](https://github.com/lewis-weinberger/rice.git)|a collection of rice configs|9||22-4-2020|  
+|414|[robusta](https://github.com/robusta-dev/robusta.git)|Kubernetes observability and automation, with an awesome Prometheus integration|2243||10-11-2023|  
+|415|[roundcubemail](https://github.com/roundcube/roundcubemail.git)|The Roundcube Webmail suite|5175|||  
+|416|[routemanager](https://github.com/tux-00/routemanager.git)|Manage routes to deal with overlapping networks.|2||4-9-2017|  
+|417|[rows](https://github.com/gonzula/rows.git)|A common, beautiful interface to tabular data, no matter the format|2||16-12-2020|  
+|418|[rr](https://github.com/smartmanru/rr.git)|-|1||25-1-2022|  
+|419|[rssbot](https://github.com/iovxw/rssbot.git)|Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人|1464||16-10-2023|  
+|420|[rssit](https://github.com/qsniyg/rssit.git)|RSS Feed Generator|61||6-3-2022|  
+|421|[rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts.git)|Scripts to share|1262||27-10-2023|  
+|422|[ru-awesome-devops](https://github.com/znhv/ru-awesome-devops.git)|Список с актуальной документацией для DevOps|9||11-3-2023|  
+|423|[ru-local-communities](https://github.com/Hexlet/ru-local-communities.git)|Список русскоязычных it-комьюнити по городам|402||31-10-2023|  
+|424|[ru-toxic-messages-classification](https://github.com/vsecoder/ru-toxic-messages-classification.git)|🗃 Classification of toxic and neutral messages on russian|3||10-5-2023|  
+|425|[ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info.git)|Современный учебник JavaScript|3612|javascript, tutorial, russian|10-11-2023|  
+|426|[run](https://github.com/deso-protocol/run.git)|Run your own DeSo node|191||19-1-2022|  
+|427|[runs-on.tech](https://github.com/aakhilv/runs-on.tech.git)|Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.|98||8-5-2022|  
+|428|[runtipi](https://github.com/runtipi/runtipi.git)|Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨|6062||7-11-2023|  
+|429|[russian-bash-cheatsheet](https://github.com/drakulavich/russian-bash-cheatsheet.git)|PDF-шпаргалка по командам терминала и bash|30||23-10-2012|  
+|430|[scan4all](https://github.com/hktalent/scan4all.git)|Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...|4290||31-10-2023|  
+|431|[scope](https://github.com/weaveworks/scope.git)|Monitoring, visualisation & management for Docker & Kubernetes|5784|||  
+|432|[scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui.git)|👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215|3250||24-7-2022|  
+|433|[scream](https://github.com/duncanthrax/scream.git)|Virtual network sound card for Microsoft Windows|1598||27-2-2023|  
+|434|[script-commands](https://github.com/raycast/script-commands.git)|Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.|5316||8-11-2023|  
+|435|[scripts](https://github.com/akhilnarang/scripts.git)|-|564||9-9-2023|  
+|436|[search_pkg_cve](https://github.com/smartmanru/search_pkg_cve.git)|-|1||8-10-2019|  
+|437|[searx](https://github.com/searx/searx.git)|Privacy-respecting metasearch engine|13193|search, metasearch, metasearch-engine, search-engine, python|7-9-2023|  
+|438|[selenium-stealth](https://github.com/diprajpatra/selenium-stealth.git)|Trying to make python selenium more stealthy.|495||5-11-2020|  
+|439|[sentry](https://github.com/getsentry/sentry.git)|Developer-first error tracking and performance monitoring|35544||11-11-2023|  
+|440|[shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku.git)|本项目已删除|221||19-7-2017|  
+|441|[shadowsocks_install](https://github.com/teddysun/shadowsocks_install.git)|Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu|7943||23-9-2023|  
+|442|[sing-box-for-android](https://github.com/SagerNet/sing-box-for-android.git)|Experimental Android client for sing-box|159||9-11-2023|  
+|443|[sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple.git)|Experimental iOS/macOS client for sing-box|122||9-11-2023|  
+|444|[smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram.git)|stream movies from telegram to smart tv|146|||  
+|445|[snapcast](https://github.com/badaix/snapcast.git)|Synchronous multiroom audio player|5337||25-10-2023|  
+|446|[social-share-urls](https://github.com/bradvin/social-share-urls.git)|Social Share URLs|2680||14-1-2022|  
+|447|[somk](https://github.com/smartmanru/somk.git)|-|1||21-5-2019|  
+|448|[somk2.0](https://github.com/smartmanru/somk2.0.git)|-|1|||  
+|449|[space-vim](https://github.com/liuchengxu/space-vim.git)|:four_leaf_clover: Lean & mean spacemacs-ish Vim distribution|2857||17-4-2023|  
+|450|[sqlime](https://github.com/nalgeon/sqlime.git)|Online SQLite playground|517||13-7-2023|  
+|451|[sshfs-win](https://github.com/winfsp/sshfs-win.git)|SSHFS For Windows|4271||7-8-2023|  
+|452|[sslh](https://github.com/yrutschle/sslh.git)|Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)|4176||7-10-2023|  
+|453|[stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker.git)|Easy Docker setup for Stable Diffusion with user-friendly UI|4971||9-9-2023|  
+|454|[starcoder](https://github.com/bigcode-project/starcoder.git)|Home of StarCoder: fine-tuning & inference!|6580||29-6-2023|  
+|455|[starcraft-sound-bot](https://github.com/AtNovember/starcraft-sound-bot.git)|Node.js sound bot for telegram, sended sounds from old StarCraft remastered game (Russian dubbing)|1||2-3-2017|  
+|456|[starred](https://github.com/maguowei/starred.git)|creating your own Awesome List by GitHub stars!|1372||14-1-2023|  
+|457|[steamdeck-tips](https://github.com/Matalus/steamdeck-tips.git)|Wiki and files relevant to my Steam Deck tinkering|39||29-9-2022|  
+|458|[streams-editor](https://github.com/finnp/streams-editor.git)|prototype editor for creating runnable network graphs|12||31-3-2017|  
+|459|[structured-text-tools](https://github.com/dbohdan/structured-text-tools.git)|A list of command line tools for manipulating structured text data|6788||30-9-2023|  
+|460|[sturdy-octo-barnacle](https://github.com/smartmanru/sturdy-octo-barnacle.git)|-|1||25-8-2019|  
+|461|[sturdy-octo-barnacle1](https://github.com/smartmanru/sturdy-octo-barnacle1.git)|-|1|||  
+|462|[super-productivity](https://github.com/johannesjo/super-productivity.git)|Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.|7210||20-10-2023|  
+|463|[swarmprom](https://github.com/stefanprodan/swarmprom.git)|Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager|1861|||  
+|464|[swell.sh](https://github.com/wcchoi/swell.sh.git)|Web-based Terminal for Bash designed for mobile with autocomplete suggestion & gesture typing keyboard|120|bash, xterm-js, terminal, mobile-web, termux, neovim|3-2-2022|  
+|465|[synergy-stable-builds](https://github.com/brahma-dev/synergy-stable-builds.git)|Downloads : https://brahma-dev.github.io/synergy-stable-builds/|746|||  
+|466|[sysmon-dfir](https://github.com/MHaggis/sysmon-dfir.git)|Sources, configuration and how to detect evil things utilizing Microsoft Sysmon. |848||20-3-2023|  
+|467|[t](https://github.com/extratone/t.git)|My collection of Telegram themes, documentation, plugins, etc.|8||28-4-2023|  
+|468|[tailwindcss](https://github.com/tailwindlabs/tailwindcss.git)|A utility-first CSS framework for rapid UI development.|73466|||  
+|469|[tdesktop](https://github.com/TDesktop-x64/tdesktop.git)|64Gram (unofficial Telegram Desktop)|1064|||  
+|470|[tdesktop](https://github.com/Sea-n/tdesktop.git)|Unofficial Telegreat Messaging app|277||25-1-2020|  
+|471|[telegram-google-calendar-bot](https://github.com/PurpleGray/telegram-google-calendar-bot.git)|Telegram bot for managing public google calendars for working chats. It has text recognition (by yandex api).|3||27-2-2018|  
+|472|[telegram-list](https://github.com/goq/telegram-list.git)|List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов|4248||12-10-2023|  
+|473|[telegram-stats-demo](https://github.com/MasterGroosha/telegram-stats-demo.git)|[зеркало с GitLab] Тестовый бот со сбором статистики (InfluxDB + Grafana)|47||27-5-2021|  
+|474|[telegram.link](https://github.com/enricostara/telegram.link.git)|Telegram API library (javascript, node.js)|333||14-7-2023|  
+|475|[telepot](https://github.com/nickoala/telepot.git)|Python framework for Telegram Bot API|2427||9-5-2019|  
+|476|[terjira](https://github.com/keepcosmos/terjira.git)|Terjira is a very interactive and easy to use CLI tool for Jira.|845||27-8-2022|  
+|477|[terminal](https://github.com/elementary/terminal.git)|Terminal emulator designed for elementary OS|390|||  
+|478|[terminology](https://github.com/borisfaure/terminology.git)|The best terminal emulator based on the Enlightenment Foundation Libraries|620|||  
+|479|[termux](https://github.com/smartmanru/termux.git)|-|1|||  
+|480|[termux-desktop](https://github.com/adi1090x/termux-desktop.git)|Setup A Beautiful Desktop/GUI In Termux|1970||20-8-2023|  
+|481|[termux-monet](https://github.com/HardcodedCat/termux-monet.git)|Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.|605||16-10-2023|  
+|482|[test](https://github.com/smartmanru/test.git)|-|1|||  
+|483|[text-generation-webui](https://github.com/oobabooga/text-generation-webui.git)|A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.|26819||9-11-2023|  
+|484|[texy](https://github.com/dg/texy.git)|Texy is a lightweight markup language with plain text formatting syntax engine.|153||29-8-2023|  
+|485|[tg-codegen](https://github.com/aiogram/tg-codegen.git)|Code generator for aiogram 3.x with parser of Telegram Bot API docs|24||7-11-2021|  
+|486|[tg_sharex](https://github.com/smartmanru/tg_sharex.git)|service for upload image/text/link/files via shareX to telegram|1|||  
+|487|[tgcalls](https://github.com/MarshalX/tgcalls.git)|Voice chats, private incoming and outgoing calls in Telegram for Developers|458||9-1-2023|  
+|488|[tgstats](https://github.com/petrinm/tgstats.git)|Telegram Channel Statistic Generator|9|||  
+|489|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|140675||12-7-2023|  
+|490|[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge.git)|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.|112377||28-2-2022|  
+|491|[theia](https://github.com/eclipse-theia/theia.git)|Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.|18526|||  
+|492|[ticketgram](https://github.com/mikurei/ticketgram.git)|Telegram Support Bot|3|bot, python, python-telegram-bot, python3, telegram-bot, sqlite3, support, support-tools, ticket-bot, ticket-system, ticketing-system|27-7-2023|  
+|493|[tinyproxy](https://github.com/tinyproxy/tinyproxy.git)|tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems|4232||12-11-2023|  
+|494|[tldr](https://github.com/tldr-pages/tldr.git)|📚 Collaborative cheatsheets for console commands|46363||12-11-2023|  
+|495|[tlroadmap](https://github.com/tlbootcamp/tlroadmap.git)|Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.|4921||4-11-2023|  
+|496|[tmux_cheatsheet](https://github.com/der-flo/tmux_cheatsheet.git)|My personal cheatsheet for tmux, the terminal multiplexer|52|||  
+|497|[tools](https://github.com/bespoyasov/tools.git)|Список полезных сервисов для разработчиков.|128|||  
+|498|[touchHLE](https://github.com/hikari-no-yume/touchHLE.git)|High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/q/project:hikari-no-yume/touchHLE+status:open|2210|||  
+|499|[transfer.sh](https://github.com/dutchcoders/transfer.sh.git)|Easy and fast file sharing from the command-line.|14527|golang, transfer, docker, share, transfersh, hacktoberfest, hacktoberfest2021|25-10-2023|  
+|500|[trsh](https://github.com/fnzv/trsh.git)|Telegram Remote-Shell|67||27-9-2020|  
+|501|[trufflehog](https://github.com/trufflesecurity/trufflehog.git)|Find and verify credentials|12655||9-11-2023|  
+|502|[typewritten](https://github.com/reobin/typewritten.git)|A minimal, lightweight, informative zsh prompt theme|863||29-1-2023|  
+|503|[udocker](https://github.com/indigo-dc/udocker.git)|A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.|1112||2-11-2023|  
+|504|[unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware.git)|Flipper Zero Unleashed Firmware|11968||23-10-2023|  
+|505|[vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects.git)|Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries|15066||7-11-2023|  
+|506|[vi-vim-graphical-cheat-sheet-ru](https://github.com/LoginovIlya/vi-vim-graphical-cheat-sheet-ru.git)|Русский перевод vi/vim graphical cheat sheet|13||4-9-2017|  
+|507|[vkbottle](https://github.com/vkbottle/vkbottle.git)|Сustomizable asynchronous VK API framework|425||27-7-2023|  
+|508|[voicy](https://github.com/backmeupplz/voicy.git)|@voicybot Telegram bot main repository|864||3-8-2023|  
+|509|[vpnbot](https://github.com/mercurykd/vpnbot.git)|-|205||11-11-2023|  
+|510|[vps_setup](https://github.com/hongwenjun/vps_setup.git)|linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/|835|linux, vim, wireguard, shadowsocks, v2ray, vps-setup, openwrt, iptables|11-4-2023|  
+|511|[vtm](https://github.com/netxs-group/vtm.git)|Virtual terminal multiplexer with session sharing|1434||9-11-2023|  
+|512|[vue-qr](https://github.com/Binaryify/vue-qr.git)|The Vue Component for Awesome-qr.js|820||9-10-2023|  
+|513|[wc3lib](https://github.com/tdauth/wc3lib.git)|A collection of libraries and tools which help to modify the game Warcraft III: The Frozen Throne.|15||14-10-2023|  
+|514|[web-development](https://github.com/nicothin/web-development.git)|Инструменты, настройки, шпаргалки, для веб-технолога|855||26-3-2020|  
+|515|[web-shell](https://github.com/second-constantine/web-shell.git)|Simple web-shell. Run on Java 1.8.|5||30-5-2019|  
+|516|[web-starter-kit](https://github.com/google/web-starter-kit.git)|Web Starter Kit - a workflow for multi-device websites|18438||9-1-2018|  
+|517|[whatsmeow](https://github.com/tulir/whatsmeow.git)|Go library for the WhatsApp web multidevice API|1372|||  
+|518|[whistle](https://github.com/avwo/whistle.git)|HTTP, HTTP2, HTTPS, Websocket debugging proxy|13195|||  
+|519|[winrm4j](https://github.com/cloudsoft/winrm4j.git)|-|88||7-3-2022|  
+|520|[writefreely](https://github.com/writefreely/writefreely.git)|A clean, Markdown-based publishing platform made for writers. Write together and build a community.|3893|writing, publishing, blogging, web-application, go, activitypub, federation, beta, writefreely, markdown, writers|7-11-2023|  
+|521|[wsl-terminal](https://github.com/mskyaxl/wsl-terminal.git)|Terminal emulator for Windows Subsystem for Linux (WSL)|3127||11-9-2020|  
+|522|[xsuspender](https://github.com/kernc/xsuspender.git)|:eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.|306||21-12-2022|  
+|523|[xxh](https://github.com/xxh/xxh.git)|🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.|4697||5-11-2023|  
+|524|[yandex-music-app](https://github.com/juvirez/yandex-music-app.git)|Неофициальное приложение Яндекс Музыка для MacOS|1468||11-5-2023|  
+|525|[yewtube](https://github.com/mps-youtube/yewtube.git)|yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.|7691|||  
+|526|[yoru](https://github.com/rxyhn/yoru.git)|夜 - Yoru   Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:|3167|dotfiles, awesomewm, widgets, rofi, rice, setup, unixporn, linux, unix, windowmanager, ricing, awesome-wm, picom, aesthetic, arch-linux, archlinux, beautiful, desktop-environment, zsh, gtk|21-9-2023|  
+|527|[you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru.git)|:books: Russian translation of "You Don't Know JS" book series|7765||5-8-2023|  
+|528|[z-i](https://github.com/zapret-info/z-i.git)|Register of Internet Addresses filtered in Russian Federation|1187||12-11-2023|  
+|529|[zaborona_help](https://github.com/zhovner/zaborona_help.git)|Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help|292||4-10-2023|  
+|530|[zipline](https://github.com/diced/zipline.git)|A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!|725||11-11-2023|  
+|531|[zmap](https://github.com/zmap/zmap.git)|ZMap is a fast single packet network scanner designed for Internet-wide network surveys.|5059||6-11-2023|  
+|532|[zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit.git)|A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.|695||12-11-2023|  
+|533|[zsh4humans](https://github.com/romkatv/zsh4humans.git)|A turnkey configuration for Zsh|1353|||  
+|534|[zx](https://github.com/google/zx.git)|A tool for writing better scripts|38942||6-9-2023|  
   
